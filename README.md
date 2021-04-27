@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my profile, my one-man labor of love, showcasing projects and prototypes, exploring ideas in computer science and their applications in real world. 
+Welcome to my profile where I explore ideas in computer science and their applications in real world. 
 
 
 
@@ -28,18 +28,6 @@ Here are some ideas to get you started:
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 
-
-### Programming Paradigms   
-
-We explore various Programming Paradigms and computationally intelligent mathematical tools:   
-
-- [The functional paradigm (using LISP)](https://github.com/asjad99/lisp-practice) 
-- [Logic programming language in Prolog](https://github.com/asjad99/Prolog) 
-- [Concurrent Programming in NXC]
-- [Object-Oriented programming in Java]()
-- [Procedural Programming with C]() 
-
-
 ### Computational Intelligence: 
 
 We explore the 'theory, design, application, and development of biologically and linguistically motivated computational paradigms emphasizing neural networks, connectionist systems, genetic algorithms, evolutionary programming, fuzzy systems, and hybrid intelligent systems in which these paradigms are contained.'
@@ -48,6 +36,14 @@ We explore the 'theory, design, application, and development of biologically and
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
 - [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
 
+
+### Computer Graphics / Image Processing  
+- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
+- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
+- [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
+- [Image Segmentation](https://github.com/asjad99/Image-Processing)
+- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
+- [Robo-Soccor](https://github.com/asjad99/robot-soccor)  
 
 ### Web  
 - [twitter-graph]() 
@@ -60,18 +56,6 @@ We explore the 'theory, design, application, and development of biologically and
 - (CoinMarketCap) []
 - (social-Intro)[]
 
-### Computer Graphics / Image Processing  
-- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
-- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
-- [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
-- [Image Segmentation](https://github.com/asjad99/Image-Processing)
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
-- [Robo-Soccor](https://github.com/asjad99/robot-soccor)  
-
-### Software Engineering 
-- [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
-- [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
- 
 
 ### Open Source Computer Science Curriculum 
 
@@ -82,7 +66,20 @@ We explore the 'theory, design, application, and development of biologically and
 - [Process Analytics](https://github.com/asjad99/process-analytics)
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
 
+### Software Engineering 
+- [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
+- [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
 
+
+### Programming Paradigms   
+
+We explore various Programming Paradigms and computationally intelligent mathematical tools:   
+
+- [The functional paradigm (using LISP)](https://github.com/asjad99/lisp-practice) 
+- [Logic programming language in Prolog](https://github.com/asjad99/Prolog) 
+- [Concurrent Programming in NXC]
+- [Object-Oriented programming in Java]()
+- [Procedural Programming with C]() 
 
 <!--
 - Systems Programming Rust (OS + databases)
