@@ -47,13 +47,17 @@ Here are some ideas to get you started:
 
 
 - [Data Science and Machine Learning](https://github.com/asjad99/datascience-GYM) (Active)
+- [Distributed Computing and Data Engineering]  
 - [Deep Learning and Natural Language Processing] (planned)
 - Theoratical Computer Science and Algorithms](https://github.com/asjad99/Algorithms_GYM) - Useful algorithms in Computer Science and Data Science
 - [Process Analytics](https://github.com/asjad99/process-analytics)
-- Systems Programming 
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
+
+
+
+<!--
+- Systems Programming Rust (OS + databases)
 - Computational Photography
-- Distributed Computing and Big data 
 	
 
 ----------------------------------------------------------------------------------------------------------------
