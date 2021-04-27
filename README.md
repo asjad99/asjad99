@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 ### Short AI Programs: 
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
 - [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
-- [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
-- [Maze Solver in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl)
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
+- [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
+- [Lisp-practice](https://github.com/asjad99/lisp-practice)
+- [Maze Solver in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl)
 
 
 ### Web  
