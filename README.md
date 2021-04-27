@@ -55,7 +55,7 @@ We explore the 'theory, design, application, and development of biologically and
 
 <!--unity ant simulation
 https://www.youtube.com/watch?v=X-iSQQgOd1A
-
+<!--
 ### Web  
 - [twitter-graph]() 
 - Elastic Search   - Elastic Search for Profile Search implemented elastic search
@@ -71,9 +71,9 @@ https://www.youtube.com/watch?v=X-iSQQgOd1A
 - Raven RAVEN Messenger is a fast, and fun way to quickly capture and share moments with friends and family. Users have the option of a one to one or a group chat.
 - (insta-print)[]: provides a no-hassle way of printing your digital photos(fb,instagram or gallery photos). The app collects print orders and allows the users to preview and make adjustments before sending them to the printing studio.  Efficient algorithms employed in the app ensure that the photo-quality is preserved during the sharing process.
 
-
+<!--
 ### Open Source Computer Science Curriculum 
-
+<!--
 - [Data Science and Machine Learning](https://github.com/asjad99/datascience-GYM) (Active)
 - [Deep Reinforcement Learning] 
 - [Distributed Computing and Data Engineering]  
