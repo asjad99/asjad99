@@ -26,10 +26,17 @@ Here are some ideas to get you started:
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
+
+- BDI systems 
 - Know how miner - word2vec 
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 
-### Computational Intelligence: 
+
+<!-- inspiration: 
+https://paperswithcode.com/sota
+also see data products and newsletters: 
+
+### Computational Intelligence(short programs): 
 
 We explore the 'theory, design, application, and development of biologically and linguistically motivated computational paradigms emphasizing neural networks, connectionist systems, genetic algorithms, evolutionary programming, fuzzy systems, and hybrid intelligent systems in which these paradigms are contained.'
 
@@ -45,6 +52,9 @@ We explore the 'theory, design, application, and development of biologically and
 - [Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects. 
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
 - [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
+
+<!--unity ant simulation
+https://www.youtube.com/watch?v=X-iSQQgOd1A
 
 ### Web  
 - [twitter-graph]() 
@@ -66,6 +76,7 @@ We explore the 'theory, design, application, and development of biologically and
 ### Open Source Computer Science Curriculum 
 
 - [Data Science and Machine Learning](https://github.com/asjad99/datascience-GYM) (Active)
+- [Deep Reinforcement Learning] 
 - [Distributed Computing and Data Engineering]  
 - [Deep Learning and Natural Language Processing] (planned)
 - [Theoratical Computer Science and Algorithms](https://github.com/asjad99/Algorithms_GYM) - Useful algorithms in Computer Science and Data Science
@@ -91,7 +102,14 @@ We explore various Programming Paradigms and computationally intelligent mathema
 - Systems Programming Rust (OS + databases)
 You should be comfortable with arrays, pointers, references, classes, methods, dynamic memory allocation, recursion, linked lists, binary search trees, hashing, iterators, and function pointers.
  - Computational Photography
-	
+ - https://rolisz.ro/projects/
+ - 
+- https://jeremykun.com/2018/12/01/a-programmers-introduction-to-mathematics/
+- https://maxmasnick.com/kb/
+- https://chrisalbon.com/ Photography: 
+https://paulstamatiou.com/photos/new-zealand/mount-cook-to-christchurch/ 
+gear: https://paulstamatiou.com/stuff-i-use/
+
 
 ----------------------------------------------------------------------------------------------------------------
 
