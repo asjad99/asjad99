@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 We explore various Programming Paradigms and computationally intelligent mathematical tools:   
 
 - [The functional paradigm (using LISP)](https://github.com/asjad99/lisp-practice) 
-- [Logic programming language in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl) 
-- [Concurrent Programming in NXC]([Robo-Soccor](https://github.com/asjad99/robot-soccor)   
+- [Logic programming language in Prolog](https://github.com/asjad99/Prolog) 
+- [Concurrent Programming in NXC]
 - [Object-Oriented programming in Java]()
 - [Procedural Programming with C]() 
 
@@ -66,11 +66,12 @@ We explore the 'theory, design, application, and development of biologically and
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
 - [Image Segmentation](https://github.com/asjad99/Image-Processing)
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
+- [Robo-Soccor](https://github.com/asjad99/robot-soccor)  
 
 ### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
-
+ 
 
 ### Open Source Computer Science Curriculum 
 
