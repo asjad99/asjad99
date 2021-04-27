@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
-
+<!-- 
 - BDI systems 
 - Know how miner - word2vec 
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
@@ -91,7 +91,7 @@ https://www.youtube.com/watch?v=X-iSQQgOd1A
 ### Programming Paradigms   
 
 We explore various Programming Paradigms and computationally intelligent mathematical tools:   
-
+<!-- 
 - [The functional paradigm (using LISP)](https://github.com/asjad99/lisp-practice) 
 - [Logic programming language in Prolog](https://github.com/asjad99/Prolog) - Solves basic problem like Prime Number finder etc
 - [Concurrent Programming in NXC]
