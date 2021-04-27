@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 - - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 
 ## Short AI Programs: 
-- [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3
+- [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
 - [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
-- Neural Networks - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
-- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
+- [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
 - [Maze Solver in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl)
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
@@ -46,7 +45,8 @@ Here are some ideas to get you started:
 
 
 ## Computer Graphics / Image Processing  
-- [Unity-Kinet]
+- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
+- [Unity-Kinect]
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
 - Line following - soccor robot   
 - [Image Segmentation](https://github.com/asjad99/Image-Processing)
@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 
 
 ## Open Source Computer Science Curriculum 
-
 
 - [Data Science and Machine Learning](https://github.com/asjad99/datascience-GYM) (Active)
 - [Distributed Computing and Data Engineering]  
