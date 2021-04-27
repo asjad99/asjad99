@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
-- Image Segmentation]()
 - [Alpha_GS](https://github.com/asjad99/rosetta_stone) - Framework for decision making in adversarial settings
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
@@ -46,10 +45,11 @@ Here are some ideas to get you started:
 ## Mobile 
 
 
-## Computer Graphics 
+## Computer Graphics / Image Processing  
 - [Unity-Kinet]
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
 - Line following - soccor robot   
+- [Image Segmentation](https://github.com/asjad99/Image-Processing)
 
 ## Software Engineering (doc. only)
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
