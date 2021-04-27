@@ -59,13 +59,12 @@ https://www.youtube.com/watch?v=X-iSQQgOd1A
 ### Web  
 - [twitter-graph]() 
 - Elastic Search   - Elastic Search for Profile Search implemented elastic search
-
 - Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
 
-
+<!--
 ### Mobile 
-
+<!--
 -  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
 - IntroMe: The apps semi-automates the process of introducing people by quickly send "intro" emails 
 - (CoinMarketCap) [] -  The app keeps you up-to date with the latest prices of the most popular crypto currencies exchange rates around the globe. Currencies supported: NameCoin, LiteCoin , BitCoin , NovaCoin, PeerCoin , FeatherCoin, TerraCoin 
