@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
-- [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework for decision making in adversarial settings
+- [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework is based on Game tree Search Combined With satisfiability(SAT) for decision making in adversarial settings
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
@@ -41,20 +41,25 @@ We explore the 'theory, design, application, and development of biologically and
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
-- [Image Segmentation](https://github.com/asjad99/Image-Processing)
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
-- [Robo-Soccor](https://github.com/asjad99/robot-soccor)  
+- [Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects. 
+- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
+- [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
 
 ### Web  
 - [twitter-graph]() 
-- Elastic Search   
-- Chrome Extension
-- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)
+- Elastic Search   - Elastic Search for Profile Search implemented elastic search
+
+- Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
+- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
+
 
 ### Mobile 
-- (insta-print)[]
-- (CoinMarketCap) []
-- (social-Intro)[]
+
+-  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
+- IntroMe: The apps semi-automates the process of introducing people by quickly send "intro" emails 
+- (CoinMarketCap) [] -  The app keeps you up-to date with the latest prices of the most popular crypto currencies exchange rates around the globe. Currencies supported: NameCoin, LiteCoin , BitCoin , NovaCoin, PeerCoin , FeatherCoin, TerraCoin 
+- Raven RAVEN Messenger is a fast, and fun way to quickly capture and share moments with friends and family. Users have the option of a one to one or a group chat.
+- (insta-print)[]: provides a no-hassle way of printing your digital photos(fb,instagram or gallery photos). The app collects print orders and allows the users to preview and make adjustments before sending them to the printing studio.  Efficient algorithms employed in the app ensure that the photo-quality is preserved during the sharing process.
 
 
 ### Open Source Computer Science Curriculum 
@@ -76,7 +81,7 @@ We explore the 'theory, design, application, and development of biologically and
 We explore various Programming Paradigms and computationally intelligent mathematical tools:   
 
 - [The functional paradigm (using LISP)](https://github.com/asjad99/lisp-practice) 
-- [Logic programming language in Prolog](https://github.com/asjad99/Prolog) 
+- [Logic programming language in Prolog](https://github.com/asjad99/Prolog) - Solves basic problem like Prime Number finder etc
 - [Concurrent Programming in NXC]
 - [Object-Oriented programming in Java]()
 - [Procedural Programming with C]() 
