@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 - [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
 - [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
 - [Maze Solver in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl)
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
 
 
@@ -50,6 +49,7 @@ Here are some ideas to get you started:
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
 - Line following - soccor robot   
 - [Image Segmentation](https://github.com/asjad99/Image-Processing)
+- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
 
 ### Software Engineering (doc. only)
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
