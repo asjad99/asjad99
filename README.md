@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
-- Line following - soccor robot   
+- [Robo-Soccor](https://github.com/asjad99/robot-soccor)   
 - [Image Segmentation](https://github.com/asjad99/Image-Processing)
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
 
