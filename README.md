@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 
 We explore various Programming Paradigms and computationally intelligent mathematical tools:   
 
-- [Lisp-practice](https://github.com/asjad99/lisp-practice) - 
-- [Maze Solver in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl) -  logic programming language 
+- [The functional paradigm (using LISP)](https://github.com/asjad99/lisp-practice) 
+- [Logic programming language in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl) 
+- [Concurrent Programming in NXC]([Robo-Soccor](https://github.com/asjad99/robot-soccor)   
+- [Object-Oriented programming in Java]()
+- [Procedural Programming with C]() 
+
 
 ### Computational Intelligence: 
 
@@ -60,7 +64,6 @@ We explore the 'theory, design, application, and development of biologically and
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
-- [Robo-Soccor](https://github.com/asjad99/robot-soccor)   
 - [Image Segmentation](https://github.com/asjad99/Image-Processing)
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
 
@@ -82,7 +85,8 @@ We explore the 'theory, design, application, and development of biologically and
 
 <!--
 - Systems Programming Rust (OS + databases)
-- Computational Photography
+You should be comfortable with arrays, pointers, references, classes, methods, dynamic memory allocation, recursion, linked lists, binary search trees, hashing, iterators, and function pointers.
+ - Computational Photography
 	
 
 ----------------------------------------------------------------------------------------------------------------
