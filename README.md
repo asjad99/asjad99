@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects/Prototypes List 
+## AI Projects/Prototypes List 
 
-
-- [MIMIC-RL] - Sepsis Decision Support for Clinicians     
+- [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
 - Image Segmentation]()
 - [Alpha_GS](https://github.com/asjad99/rosetta_stone) - Framework for decision making in adversarial settings
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
-- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
+- - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
+
+## Short AI Programs: 
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3
 - [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
 - Neural Networks - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
@@ -35,16 +36,27 @@ Here are some ideas to get you started:
 - [Maze Solver in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl)
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
-- [Large Scale Autoamted Software Testing - doc. only](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
-- [Large Scale Requirements Engineering - doc. only](https://github.com/asjad99/Requirements-Engineering-)
-- [Unity-Kinet]
-- Basic Web API using Flask - 
+
+
+## Web  
+- Basic Web API using Flask
 - Elastic Search   
-- Line following - soccor robot     
+- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)
+
+## Mobile 
+
+
+## Computer Graphics 
+- [Unity-Kinet]
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
+- Line following - soccor robot   
+
+## Software Engineering (doc. only)
+- [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
+- [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-)
+
 
 ## Open Source Computer Science Curriculum 
-
 
 
 - [Data Science and Machine Learning](https://github.com/asjad99/datascience-GYM) (Active)
