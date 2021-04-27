@@ -26,23 +26,35 @@ Here are some ideas to get you started:
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
 - - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
-
-### Short AI Programs: 
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
+
+
+### Programming Paradigms   
+
+We explore various Programming Paradigms and computationally intelligent mathematical tools:   
+
+- [Lisp-practice](https://github.com/asjad99/lisp-practice) - 
+- [Maze Solver in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl) -  logic programming language 
+
+### Computational Intelligence: 
+
+We explore the 'theory, design, application, and development of biologically and linguistically motivated computational paradigms emphasizing neural networks, connectionist systems, genetic algorithms, evolutionary programming, fuzzy systems, and hybrid intelligent systems in which these paradigms are contained.'
+
 - [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
 - [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
-- [Lisp-practice](https://github.com/asjad99/lisp-practice)
-- [Maze Solver in Prolog](https://github.com/asjad99/Prolog/blob/master/Path.Finder.pl)
 
 
 ### Web  
-- Basic Web API using Flask
+- [twitter-graph]() 
 - Elastic Search   
+- Chrome Extension
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)
 
 ### Mobile 
-
+- (insta-print)[]
+- (CoinMarketCap) []
+- (social-Intro)[]
 
 ### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
@@ -52,9 +64,9 @@ Here are some ideas to get you started:
 - [Image Segmentation](https://github.com/asjad99/Image-Processing)
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): Object detection to classify hand images 
 
-### Software Engineering (doc. only)
+### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
-- [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-)
+- [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
 
 
 ### Open Source Computer Science Curriculum 
