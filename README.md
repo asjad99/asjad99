@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## AI Projects/Prototypes List 
+### AI Projects/Prototypes List 
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
 - - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 
-## Short AI Programs: 
+### Short AI Programs: 
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
 - [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
 - [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
@@ -36,27 +36,27 @@ Here are some ideas to get you started:
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
 
 
-## Web  
+### Web  
 - Basic Web API using Flask
 - Elastic Search   
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)
 
-## Mobile 
+### Mobile 
 
 
-## Computer Graphics / Image Processing  
+### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
 - [Unity-Kinect]
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
 - Line following - soccor robot   
 - [Image Segmentation](https://github.com/asjad99/Image-Processing)
 
-## Software Engineering (doc. only)
+### Software Engineering (doc. only)
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-)
 
 
-## Open Source Computer Science Curriculum 
+### Open Source Computer Science Curriculum 
 
 - [Data Science and Machine Learning](https://github.com/asjad99/datascience-GYM) (Active)
 - [Distributed Computing and Data Engineering]  
