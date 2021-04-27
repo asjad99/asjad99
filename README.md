@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
+- Know how miner - word2vec 
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 
 ### Computational Intelligence: 
