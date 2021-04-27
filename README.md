@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
-- [Unity-Kinect]
+- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
 - Line following - soccor robot   
 - [Image Segmentation](https://github.com/asjad99/Image-Processing)
