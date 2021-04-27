@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
-- [Alpha_GS](https://github.com/asjad99/rosetta_stone) - Framework for decision making in adversarial settings
-- Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
+- [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework for decision making in adversarial settings
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
-- - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
+- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
+- Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 
 
 ### Programming Paradigms   
