@@ -20,7 +20,7 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 
 | Area                                      | Topic | 
 |-----------------------------------------------|-----------|
-| High-Dimensional Space / Data with Distances  |  [Know how miner using word2vec](https://github.com/asjad99/know-how-mining)         |  
+| High-Dimensional Space |  [Know how miner using word2vec](https://github.com/asjad99/know-how-mining)         |  
 |**Linear-Algebraic Techniques:**|  PCA
 |                                | [Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
 |**Machine Learning:**           | Generalization and Regularization  |
