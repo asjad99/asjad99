@@ -82,6 +82,7 @@ We explore various Programming Paradigms and computationally intelligent mathema
 - [Procedural Programming with C]() 
 
 <!-- Moonshots: 
+https://github.com/ossu/computer-science#readme
 Human-level concept learning through probabilistic program induction
 Going deep into langauge, reinforcement learning 
 
