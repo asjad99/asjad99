@@ -1,23 +1,8 @@
 ### Hi there 👋
  	
-I'm currently working at DSL Lab (UoW). My interests include: programming languages, computer graphics/vision and Artificial intelligence. Following projects explore ideas in computer science and their applications in real world. 
+I'm currently working at DSL Lab (UoW). My interests include: programming languages, computer graphics/vision and Artificial intelligence. Following projects/Prototypes explore ideas in computer science and their applications in real world. 
 
-<!--
-**asjad99/asjad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Computational Intelligence - Prototypes
+### Computational Intelligence 
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
@@ -26,7 +11,7 @@ Here are some ideas to get you started:
 - Resource Allocation using LSTM networks 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
-- [Know how miner using word2vec]() 
+- [Know how miner using word2vec](https://github.com/asjad99/know-how-mining) 
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 - [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
