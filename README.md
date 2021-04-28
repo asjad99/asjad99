@@ -1,6 +1,6 @@
 ### Hi there 👋
  	
-I'm currently working at DSL Lab (UoW). My interests lie at the intersection of programming languages and machine learning. Following projects ideas in computer science and their applications in real world. 
+I'm currently working at DSL Lab (UoW). My interests include: programming languages, computer graphics/vision and Artificial intelligence. Following projects explore ideas in computer science and their applications in real world. 
 
 <!--
 **asjad99/asjad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
