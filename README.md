@@ -87,6 +87,8 @@ Human-level concept learning through probabilistic program induction
 Going deep into langauge, reinforcement learning 
 
 <!-- 
+https://www.cs.cornell.edu/jeh/book.pdf
+https://web.stanford.edu/class/cs168/index.html
 - BDI systems 
 
 <!--unity ant simulation
