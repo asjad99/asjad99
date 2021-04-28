@@ -22,11 +22,11 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 |-----------------------------------------------|-----------|
 | High-Dimensional Space / Data with Distances  |  [Know how miner using word2vec](https://github.com/asjad99/know-how-mining)         |  
 |**Linear-Algebraic Techniques:**|  PCA
-|                                | [Best-Fit Subspaces and Singular Value Decomposition (SVD) - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
+|                                | [Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
 |**Machine Learning:**           | Generalization and Regularization  |
 |                                | [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)          |
 |                                |  [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms) |  
-|                                | - [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem|
+|                                | - [Neural Network](https://github.com/asjad99/MLP) -A multi-layer Neural Network to solve the two spiral problem|
 | **Spectral Graph Theory**      |            |
 | **Sampling and Estimation**    |            |
 | **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
