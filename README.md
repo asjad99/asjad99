@@ -14,28 +14,6 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 - Resource Allocation using LSTM networks 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 
-### Foundational Concepts: 
-
-
-
-| Area                                      | Topic | 
-|-----------------------------------------------|-----------|
-| High-Dimensional Space |  [Know how miner using word2vec](https://github.com/asjad99/know-how-mining)         |  
-|**Linear-Algebraic Techniques:**|  PCA
-|                                | [Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
-|**Machine Learning:**           | Generalization and Regularization  |
-|                                | [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)          |
-|                                |  [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms) |  
-|                                | - [Neural Network](https://github.com/asjad99/MLP) -A multi-layer Neural Network to solve the two spiral problem|
-| **Spectral Graph Theory**      |            |
-| **Sampling and Estimation**    |            |
-| **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
-
-
-
-
-----
-
 ### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
@@ -60,12 +38,13 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 - (insta-print)[]: provides a no-hassle way of printing your digital photos(fb,instagram or gallery photos). The app collects print orders and allows the users to preview and make adjustments before sending them to the printing studio.  Efficient algorithms employed in the app ensure that the photo-quality is preserved during the sharing process.
 
 
-### Open Source Computer Science Curriculum 
-- [Data Science and Machine Learning](https://github.com/asjad99/datascience-GYM) (Active)
-- [Deep Reinforcement Learning] 
-- [Distributed Computing and Data Engineering]  
+### Open Source Learning: 
+- [Machine Learning] ()
+- [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
+- [Data Science](https://github.com/asjad99/datascience-GYM) (in progress)
 - [Deep Learning and Natural Language Processing] (planned)
-- [Theoratical Computer Science and Algorithms](https://github.com/asjad99/Algorithms_GYM) - Useful algorithms in Computer Science and Data Science
+- [Distributed Computing and Data Engineering]  
+- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) - Useful algorithms in Computer Science and Data Science
 - [Process Analytics](https://github.com/asjad99/process-analytics)
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
 
