@@ -10,13 +10,24 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
 - Resource Allocation using LSTM networks 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
-- [Singular Value Decomposition - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
-- [Know how miner using word2vec](https://github.com/asjad99/know-how-mining) 
-- Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
-- [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
-- [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
-- [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
 
+### Foundational Concepts: 
+
+#####  High-Dimensional Space / Data with Distances   
+--   [Case Study: Know how miner using word2vec](https://github.com/asjad99/know-how-mining) 
+
+##### Linear-Algebraic Techniques:
+-- PCA 
+-- [Best-Fit Subspaces and Singular Value Decomposition (SVD) - Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
+
+##### [Machine Learning]
+-- Generalization and Regularization   
+--  [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
+-- [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
+-- [Neural Network](https://github.com/asjad99/MLP) - 5 Layer MLP A 5 Layer back propagation multi-layer Neural Network for applied to solve the two spiral problem
+
+##### Privacy Preserving Computational
+--  Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 
 ### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
