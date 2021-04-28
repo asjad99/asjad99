@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### AI Projects/Prototypes List 
+### Computational Intelligence - Prototypes
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 - [Know how miner using word2vec]() 
 - Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
 
-### Computational Intelligence(short programs): 
-
-We explore the 'theory, design, application, and development of biologically and linguistically motivated computational paradigms emphasizing neural networks, connectionist systems, genetic algorithms, evolutionary programming, fuzzy systems, and hybrid intelligent systems in which these paradigms are contained.'
+### short programs: 
 
 - [Hybrid-CI-System](https://github.com/asjad99/Hybrid-CI-System)
 - [Traveling Salesmen and gentic algorithms](https://github.com/asjad99/Genetic-Algorithms)   
