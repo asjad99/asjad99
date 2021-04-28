@@ -4,8 +4,7 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 
 ### Computational Intelligence 
 
-### Foundational Concepts: 
-**High-Dimensional Space / Data with Distances **
+**High-Dimensional Space / Data with Distances**
 
 - [Case Study: Know how miner using word2vec](https://github.com/asjad99/know-how-mining) 
 
@@ -24,6 +23,8 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 **Sampling and Estimation**
 **Privacy Preserving Computational**
 -  Distributed Process Mining - Privacy Preserving Mining of geographically dispersed event logs 
+
+### Projects: 
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
