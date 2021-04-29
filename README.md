@@ -4,9 +4,6 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 
 ### Computational Intelligence 
 
-
-### Projects: 
-
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
 - [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
 - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework is based on Game tree Search Combined With satisfiability(SAT) for decision making in adversarial settings
@@ -71,11 +68,6 @@ I think one of the things that really separates us from the high primates is tha
 
 And that’s what a computer is to me. What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” ~ Steve Jobs
 
-“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
-
-"A person often meets his destiny on the road he took to avoid it."
-
-[Naval and Kapil Gupta on Hardwork](https://youtu.be/q6k_ufqaiBg)
 
 
 <!-- Moonshots: 
@@ -106,6 +98,12 @@ You should be comfortable with arrays, pointers, references, classes, methods, d
 https://paulstamatiou.com/photos/new-zealand/mount-cook-to-christchurch/ 
 gear: https://paulstamatiou.com/stuff-i-use/
 
+
+“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
+
+"A person often meets his destiny on the road he took to avoid it."
+
+[Naval and Kapil Gupta on Hardwork](https://youtu.be/q6k_ufqaiBg)
 
 ----------------------------------------------------------------------------------------------------------------
 
