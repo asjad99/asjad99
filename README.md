@@ -2,10 +2,10 @@
  	
 I'm currently working at DSL Lab (UoW). My interests include: programming languages, computer graphics/vision and Artificial intelligence. Following projects/Prototypes explore ideas in computer science and their applications in real world. 
 
-### Computational Intelligence 
+### AI Research Projects 
 
-- [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) - Sepsis Decision Support for Clinicians     
-- [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess)
+- [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis    
+- [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring 
 - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework is based on Game tree Search Combined With satisfiability(SAT) for decision making in adversarial settings
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
 - Resource Allocation using LSTM networks 
