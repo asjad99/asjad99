@@ -39,7 +39,7 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 
 - These Projects and notebooks are currently 'work in progress'.   It provides an opportunity to document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
 
-- [Machine Learning] (https://github.com/asjad99/Machine-Learning-GYM)
+- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
 - [Data Science](https://github.com/asjad99/datascience-GYM) 
 - [Deep Learning and Natural Language Processing] 
