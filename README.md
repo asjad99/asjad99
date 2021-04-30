@@ -4,11 +4,10 @@ I'm currently working at DSL Lab (UoW). My interests include: programming langua
 
 ### AI Research Projects 
 
-- [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis    
-- [DeepProcess: Memory Augmented Neural Networks](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring 
-- [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework is based on Game tree Search Combined With satisfiability(SAT) for decision making in adversarial settings
-- [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/tensorflow_LSTM)
-- Resource Allocation using LSTM networks 
+- [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   
+- [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks
+- [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework for decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  
+- [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/context-aware-resource-allocation)  Decision Support for Context-aware Resource Allocation using LSTM networks 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 
 ### Computer Graphics / Image Processing  
