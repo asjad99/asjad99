@@ -1,6 +1,9 @@
 ### Hi there 👋
  	
-I'm currently working at DSL Lab (UoW). My interests include: programming languages, computer graphics/vision and Artificial intelligence. Following projects/Prototypes explore ideas in computer science and their applications in real world. 
+- I'm currently working at DSL Lab (UoW).
+- My interests include: programming languages, computer graphics/vision and Artificial intelligence.
+- I write about my experiences at https://medium.com/@charlespierse
+-  Following projects/Prototypes explore ideas in computer science and their applications in real world. 
 
 ### AI Research Projects 
 
