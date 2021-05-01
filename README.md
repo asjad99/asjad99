@@ -53,7 +53,7 @@ Following Projects and notebooks are currently 'work in progress'. This provides
 ### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
-
+- [Project Management](https://github.com/asjad99/project-management) 
 
 ### Programming Paradigms   
 
