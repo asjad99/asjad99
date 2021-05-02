@@ -1,9 +1,8 @@
 ### Hi there 👋
  	
-- I'm a Machine Learning Engineer and a research scientist, with a passion for building intelligent systems that make a difference. I use machine learning and software engineering to solve problems.
-
+- I'm a Machine Learning Engineer and a research scientist, with a passion for building intelligent systems and using them to solve real world problems 
 - My interests include: programming languages, computer graphics/vision and Artificial intelligence.
-- I write about my experiences at https://medium.com/@charlespierse
+- I write about my experiences at https://www.asjadk.io
 -  Following projects/Prototypes explore ideas in computer science and their applications in real world. 
 
 ### AI Research Projects 
