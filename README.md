@@ -45,13 +45,14 @@
 Following Projects and notebooks are currently 'work in progress'. This provides me an opportunity to document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
 
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- [ML System Design](https://github.com/asjad99/data-engineering-ml-ops) 
 - [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
 - [Data Science](https://github.com/asjad99/datascience-GYM) 
-- [Deep Learning and Natural Language Processing] 
-- [Distributed Computing and Data Engineering]  
-- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) - Useful algorithms in Computer Science and Data Science
 - [Process Analytics](https://github.com/asjad99/process-analytics)
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
+- [Deep Learning and Natural Language Processing] (planned)
+- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) (planned)
+
 
 ### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
