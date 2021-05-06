@@ -70,10 +70,12 @@ We explore various Programming Paradigms and computationally intelligent mathema
 - [Procedural Programming with C]() 
 
 
-I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts.
+<em> I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts.
 
 And that’s what a computer is to me. What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” ~ Steve Jobs
 
+
+In the information age, the barriers [to entry into programming] just aren't there. The barriers are self imposed. If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap $\mathrm{PC}$ to work on, and the dedication to go through with it. We slept on floors. We waded across rivers. - John Carmack </em>
 
 
 <!-- Moonshots: 
@@ -110,6 +112,8 @@ gear: https://paulstamatiou.com/stuff-i-use/
 "A person often meets his destiny on the road he took to avoid it."
 
 [Naval and Kapil Gupta on Hardwork](https://youtu.be/q6k_ufqaiBg)
+
+
 
 ----------------------------------------------------------------------------------------------------------------
 
