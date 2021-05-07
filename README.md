@@ -1,9 +1,9 @@
 ### Hi there 👋
  	
-- I'm a Machine Learning Engineer and a research scientist, with a passion for building intelligent systems and using them to solve real world problems 
+- I'm a Research Scientist/Engineer, with a passion for building intelligent systems and using them to solve real world problems 
 - My interests include: programming languages, computer graphics/vision and Artificial intelligence.
 - I write about my experiences at https://www.asjadk.io
--  Following projects/Prototypes explore ideas in computer science and their applications in real world. 
+- Following projects/Prototypes explore ideas in computer science and their applications in real world. 
 
 ### AI Research Projects 
 
@@ -20,10 +20,10 @@
 
 #### Information Retreival 
 
+- [Elastic Search]() - 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec 
 - [Question-Answering] - Biomedical Question Answering
-
 
 #### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
