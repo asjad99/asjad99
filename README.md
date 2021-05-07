@@ -74,7 +74,7 @@ We explore various Programming Paradigms and computationally intelligent mathema
 
 ###### Planned: 
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
-- [Deep Learning and Natural Language Processing] (planned)
+- [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
 - [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
 - [Distributed Systems](https://github.com/asjad99/Distributed-Systems)
 - [Information Retreival -Algorithms]()
