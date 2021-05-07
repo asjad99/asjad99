@@ -41,7 +41,7 @@ About me:
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
 -  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
 - [IntroMe](https://github.com/asjad99/IntroMe): The apps semi-automates the process of introducing people by quickly send "intro" emails 
-- (CoinMarketCap) [https://github.com/asjad99/CoinMarketCap] -  The app keeps you up-to date with the latest prices of the most popular crypto currencies exchange rates around the globe. Currencies supported: NameCoin, LiteCoin , BitCoin , NovaCoin, PeerCoin , FeatherCoin, TerraCoin 
+- (CoinMarketCap)[https://github.com/asjad99/CoinMarketCap] -  The app keeps you up-to date with the latest prices of the most popular crypto currencies exchange rates around the globe. Currencies supported: NameCoin, LiteCoin , BitCoin , NovaCoin, PeerCoin , FeatherCoin, TerraCoin 
 - [insta-print](https://github.com/asjad99/InstaPrint): provides a no-hassle way of printing your digital photos(fb,instagram or gallery photos). The app collects print orders and allows the users to preview and make adjustments before sending them to the printing studio.  Efficient algorithms employed in the app ensure that the photo-quality is preserved during the sharing process.
 - Raven RAVEN Messenger is a fast, and fun way to quickly capture and share moments with friends and family. Users have the option of a one to one or a group chat.
 
@@ -56,14 +56,7 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 - [Data Science](https://github.com/asjad99/datascience-GYM) 
 - [Process Analytics](https://github.com/asjad99/process-analytics)
 
-Planned: 
-- [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
-- [Deep Learning and Natural Language Processing] (planned)
-- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
-- [Distributed Systems] (https://github.com/asjad99/Distributed-Systems)
-- [Information Retreival -Algorithms]()
- 
-####  Software Engineering 
+#### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
 - [Project Management](https://github.com/asjad99/project-management) 
@@ -77,6 +70,14 @@ We explore various Programming Paradigms and computationally intelligent mathema
 - [Concurrent Programming in NXC](https://github.com/asjad99/programming-paradigms-)
 - [Object-Oriented programming in Java](https://github.com/asjad99/programming-paradigms-)
 - [Procedural Programming with C](https://github.com/asjad99/programming-paradigms-) 
+
+##### Planned: 
+- [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
+- [Deep Learning and Natural Language Processing] (planned)
+- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
+- [Distributed Systems](https://github.com/asjad99/Distributed-Systems)
+- [Information Retreival -Algorithms]()
+ 
 
 
 <em> I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts.
