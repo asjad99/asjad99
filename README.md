@@ -18,14 +18,14 @@
 - [Distributed Process Mining]()
 - [Federated Learaning]()
 
-## Information Retreival 
+#### Information Retreival 
 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec 
 - [Question-Answering] - Biomedical Question Answering
 
 
-### Computer Graphics / Image Processing  
+#### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
 - [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
@@ -33,14 +33,11 @@
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
 - [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
 
-### Web  
+#### Web/Mobile
 - [twitter-graph]() 
 - Elastic Search   - Elastic Search for Profile Search implemented elastic search
 - Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
-
-
-### Mobile 
 
 -  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
 - IntroMe: The apps semi-automates the process of introducing people by quickly send "intro" emails 
