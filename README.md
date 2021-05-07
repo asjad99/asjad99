@@ -1,11 +1,12 @@
-### Hi there 👋
- 	
+####  Hi there 👋
+
+About me: 
 - I'm a Research Scientist/Engineer, with a passion for building intelligent systems and using them to solve real world problems 
 - My interests include: programming languages, computer graphics/vision and Artificial intelligence.
 - I write about my experiences at https://www.asjadk.io
 - Following projects/Prototypes explore ideas in computer science and their applications in real world. 
 
-### AI Research Projects 
+#### AI Research Projects 
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   
 - [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks
@@ -46,7 +47,7 @@
 - (insta-print)[]: provides a no-hassle way of printing your digital photos(fb,instagram or gallery photos). The app collects print orders and allows the users to preview and make adjustments before sending them to the printing studio.  Efficient algorithms employed in the app ensure that the photo-quality is preserved during the sharing process.
 
 
-### Open Source Learning: 
+#### Open Source Learning: 
 
 Following Notes, Code/notebooks are currently 'work in progress'. I document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
 
@@ -60,13 +61,13 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 - [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) (planned)
 - [Distributed Systems] (https://github.com/asjad99/Distributed-Systems)
 - [IR-Algorithms]()
-- 
-### Software Engineering 
+ 
+####  Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
 - [Project Management](https://github.com/asjad99/project-management) 
 
-### Programming Paradigms   
+#### Programming Paradigms   
 
 We explore various Programming Paradigms and computationally intelligent mathematical tools:   
 
