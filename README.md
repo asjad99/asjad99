@@ -11,10 +11,19 @@
 - [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks
 - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework for decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  
 - [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/context-aware-resource-allocation)  Decision Support for Context-aware Resource Allocation using LSTM networks 
-- [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec 
-- [Latent Semantic Indexing](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3) - Scalable Topic Modeling in Apache Spark 
-- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 
+#### Data Mining
+
+- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
+- [Distributed Process Mining]()
+- [Federated Learaning]()
+
+## Information Retreival 
+
+- [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark 
+- [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec 
+- [Question-Answering] - Biomedical Question Answering
+- [IR-Algorithms]()
 
 ### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
@@ -42,7 +51,7 @@
 
 ### Open Source Learning: 
 
-Following Projects and notebooks are currently 'work in progress'. This provides me an opportunity to document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
+Following Notes, Code/notebooks are currently 'work in progress'. I document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
 
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [ML System Design](https://github.com/asjad99/data-engineering-ml-ops) 
@@ -52,7 +61,7 @@ Following Projects and notebooks are currently 'work in progress'. This provides
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
 - [Deep Learning and Natural Language Processing] (planned)
 - [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) (planned)
-
+- [Distributed Systems] (https://github.com/asjad99/Distributed-Systems)
 
 ### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
