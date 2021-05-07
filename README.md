@@ -56,11 +56,13 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 - [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
 - [Data Science](https://github.com/asjad99/datascience-GYM) 
 - [Process Analytics](https://github.com/asjad99/process-analytics)
+
+Planned: 
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
 - [Deep Learning and Natural Language Processing] (planned)
-- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) (planned)
+- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
 - [Distributed Systems] (https://github.com/asjad99/Distributed-Systems)
-- [IR-Algorithms]()
+- [Information Retreival -Algorithms]()
  
 ####  Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
@@ -71,11 +73,11 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 
 We explore various Programming Paradigms and computationally intelligent mathematical tools:   
 
-- [The functional paradigm (using LISP)](https://github.com/asjad99/lisp-practice) 
+- [The functional paradigm (using LISP)](https://github.com/asjad99/programming-paradigms-) 
 - [Logic programming language in Prolog](https://github.com/asjad99/Prolog) - Solves basic problem like Prime Number finder etc
-- [Concurrent Programming in NXC]()
-- [Object-Oriented programming in Java]()
-- [Procedural Programming with C]() 
+- [Concurrent Programming in NXC](https://github.com/asjad99/programming-paradigms-)
+- [Object-Oriented programming in Java](https://github.com/asjad99/programming-paradigms-)
+- [Procedural Programming with C](https://github.com/asjad99/programming-paradigms-) 
 
 
 <em> I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts.
