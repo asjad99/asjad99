@@ -56,12 +56,12 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 - [Data Science](https://github.com/asjad99/datascience-GYM) 
 - [Process Analytics](https://github.com/asjad99/process-analytics)
 
-#### Software Engineering 
+###### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
 - [Project Management](https://github.com/asjad99/project-management) 
 
-#### Programming Paradigms   
+###### Programming Paradigms   
 
 We explore various Programming Paradigms and computationally intelligent mathematical tools:   
 
@@ -71,7 +71,7 @@ We explore various Programming Paradigms and computationally intelligent mathema
 - [Object-Oriented programming in Java](https://github.com/asjad99/programming-paradigms-)
 - [Procedural Programming with C](https://github.com/asjad99/programming-paradigms-) 
 
-##### Planned: 
+###### Planned: 
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
 - [Deep Learning and Natural Language Processing] (planned)
 - [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
