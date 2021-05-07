@@ -26,13 +26,6 @@ About me:
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec 
 - [Question-Answering] - Biomedical Question Answering
 
-#### Computer Graphics / Image Processing  
-- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
-- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
-- [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
-- [Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects. 
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
-- [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
 
 #### Web/Mobile
 
@@ -44,6 +37,14 @@ About me:
 - (CoinMarketCap)[https://github.com/asjad99/CoinMarketCap] -  The app keeps you up-to date with the latest prices of the most popular crypto currencies exchange rates around the globe. Currencies supported: NameCoin, LiteCoin , BitCoin , NovaCoin, PeerCoin , FeatherCoin, TerraCoin 
 - [insta-print](https://github.com/asjad99/InstaPrint): provides a no-hassle way of printing your digital photos(fb,instagram or gallery photos). The app collects print orders and allows the users to preview and make adjustments before sending them to the printing studio.  Efficient algorithms employed in the app ensure that the photo-quality is preserved during the sharing process.
 - Raven RAVEN Messenger is a fast, and fun way to quickly capture and share moments with friends and family. Users have the option of a one to one or a group chat.
+
+#### Computer Graphics / Image Processing  
+- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
+- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
+- [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
+- [Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects. 
+- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
+- [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
 
 
 #### Open Source Learning: 
