@@ -23,7 +23,7 @@
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec 
 - [Question-Answering] - Biomedical Question Answering
-- [IR-Algorithms]()
+
 
 ### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
@@ -62,7 +62,8 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 - [Deep Learning and Natural Language Processing] (planned)
 - [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) (planned)
 - [Distributed Systems] (https://github.com/asjad99/Distributed-Systems)
-
+- [IR-Algorithms]()
+- 
 ### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
@@ -74,7 +75,7 @@ We explore various Programming Paradigms and computationally intelligent mathema
 
 - [The functional paradigm (using LISP)](https://github.com/asjad99/lisp-practice) 
 - [Logic programming language in Prolog](https://github.com/asjad99/Prolog) - Solves basic problem like Prime Number finder etc
-- [Concurrent Programming in NXC]
+- [Concurrent Programming in NXC]()
 - [Object-Oriented programming in Java]()
 - [Procedural Programming with C]() 
 
