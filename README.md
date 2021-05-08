@@ -9,9 +9,7 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=asjad99&row=1" />
 </a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green" />
-</a>
+
 
 
 ----
