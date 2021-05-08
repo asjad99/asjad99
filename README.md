@@ -3,6 +3,19 @@
 I am a Final year computer science Ph.D. student at the University of Wollongong  with a passion for building intelligent systems and using them to solve real world problems. My work centres on exploring applications of machine learning for process analytics, Decision Support and natural language understanding of text. I completed my undergraduate degree at GIK Institue. I completed my Masters’s degree in computer science with a distinction at the University of Wollongong. I write about my experiences at https://www.asjadk.io
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=asjad99&row=1" />
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green" />
+</a>
+
+
+----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
