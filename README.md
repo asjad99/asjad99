@@ -1,12 +1,9 @@
 ####  Hi there 👋
 
-About me: 
-- I'm a Research Scientist/Engineer, with a passion for building intelligent systems and using them to solve real world problems 
-- My interests include: programming languages, computer graphics/vision and Artificial intelligence.
-- I write about my experiences at https://www.asjadk.io
-- Following projects/Prototypes explore ideas in computer science and their applications in real world. 
+I am a Final year computer science Ph.D. student at the University of Wollongong  with a passion for building intelligent systems and using them to solve real world problems. My work centres on exploring applications of machine learning for process analytics and natural language understanding of biomedical text. My interests include: programming languages, computer graphics/vision and Artificial intelligence. I completed my undergraduate degree at the GIK Institue. I completed my Masters’s degree in computer science with distinction at the University of Wollongong. - I write about my experiences at https://www.asjadk.io
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### AI Research Projects 
@@ -83,8 +80,6 @@ We explore various Programming Paradigms and computationally intelligent mathema
 - [Information Retreival -Algorithms]()
  
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <em> I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts.
