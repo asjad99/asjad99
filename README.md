@@ -2,12 +2,6 @@
 
 I am a Final year computer science Ph.D. student at the University of Wollongong  with a passion for building intelligent systems and using them to solve real world problems. My work centres on exploring applications of machine learning for process analytics, Decision Support and natural language understanding of text. I completed my undergraduate degree at GIK Institue. I completed my Masters’s degree in computer science with a distinction at the University of Wollongong. I write about my experiences at https://www.asjadk.io
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=asjad99&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 #### AI Research Projects 
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   
@@ -81,6 +75,13 @@ We explore various Programming Paradigms and computationally intelligent mathema
 - [Distributed Systems](https://github.com/asjad99/Distributed-Systems)
 - [Information Retreival -Algorithms]()
  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=asjad99&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
