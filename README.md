@@ -47,25 +47,25 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 
 Following Notes, Code/notebooks are currently 'work in progress'. I document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
 
+###### AI/DATA
+- [Data Science](https://github.com/asjad99/datascience-GYM) 
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [ML System Design](https://github.com/asjad99/data-engineering-ml-ops) 
 - [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-- [Data Science](https://github.com/asjad99/datascience-GYM) 
 - [Process Analytics](https://github.com/asjad99/process-analytics)
-- [Programming Paradigms]()
+- [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
+
+###### CS
+- [Programming Paradigms](https://github.com/asjad99/programming-paradigms-)
+- [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
+- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
+- [Distributed Systems](https://github.com/asjad99/Distributed-Systems)
+- [Information Retreival -Algorithms]()
 
 ###### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
 - [Project Management](https://github.com/asjad99/project-management) 
-
-###### Planned: 
-- [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
-- [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
-- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
-- [Distributed Systems](https://github.com/asjad99/Distributed-Systems)
-- [Information Retreival -Algorithms]()
- 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
