@@ -69,13 +69,13 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 
 ###### AI/DATA
 - [Data Science](https://asjad99.github.io/datascience-GYM/) 
+- [Process Analytics](https://github.com/asjad99/process-analytics)
+- [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [ML System Design](https://github.com/asjad99/data-engineering-ml-ops) 
-- [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-- [Process Analytics](https://github.com/asjad99/process-analytics)
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
 
-###### CS
+###### CS (planned)
 - [Programming Paradigms](https://github.com/asjad99/programming-paradigms-)
 - [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
 - [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
