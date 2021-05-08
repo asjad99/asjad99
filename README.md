@@ -52,21 +52,12 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 - [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
 - [Data Science](https://github.com/asjad99/datascience-GYM) 
 - [Process Analytics](https://github.com/asjad99/process-analytics)
+- [Programming Paradigms]()
 
 ###### Software Engineering 
 - [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
 - [Project Management](https://github.com/asjad99/project-management) 
-
-###### Programming Paradigms   
-
-We explore various Programming Paradigms and computationally intelligent mathematical tools:   
-
-- [The functional paradigm (using LISP)](https://github.com/asjad99/programming-paradigms-) 
-- [Logic programming language in Prolog](https://github.com/asjad99/Prolog) - Solves basic problem like Prime Number finder etc
-- [Concurrent Programming in NXC](https://github.com/asjad99/programming-paradigms-)
-- [Object-Oriented programming in Java](https://github.com/asjad99/programming-paradigms-)
-- [Procedural Programming with C](https://github.com/asjad99/programming-paradigms-) 
 
 ###### Planned: 
 - [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
