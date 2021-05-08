@@ -1,6 +1,6 @@
 ####  Hi there 👋
 
-I am a Final year computer science Ph.D. student at the University of Wollongong  with a passion for building intelligent systems and using them to solve real world problems. My work centres on exploring applications of machine learning for process analytics and natural language understanding of biomedical text. My interests include: programming languages, computer graphics/vision and Artificial intelligence. I completed my undergraduate degree at the GIK Institue. I completed my Masters’s degree in computer science with distinction at the University of Wollongong. - I write about my experiences at https://www.asjadk.io
+I am a Final year computer science Ph.D. student at the University of Wollongong  with a passion for building intelligent systems and using them to solve real world problems. My work centres on exploring applications of machine learning for process analytics, Decision Support and natural language understanding of text. I completed my undergraduate degree at GIK Institue. I completed my Masters’s degree in computer science with a distinction at the University of Wollongong. I write about my experiences at https://www.asjadk.io
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
