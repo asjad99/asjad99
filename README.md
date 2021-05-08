@@ -5,6 +5,8 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=asjad99&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 #### AI Research Projects 
 
