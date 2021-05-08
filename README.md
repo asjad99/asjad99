@@ -6,6 +6,10 @@ About me:
 - I write about my experiences at https://www.asjadk.io
 - Following projects/Prototypes explore ideas in computer science and their applications in real world. 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asjad99&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### AI Research Projects 
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   
