@@ -14,13 +14,6 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=asjad99&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 #### AI Research Projects 
@@ -62,6 +55,11 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 - [Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects. 
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
 - [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
+
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=asjad99&row=1)]()
+
+
 
 -----
 
