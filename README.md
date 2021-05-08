@@ -68,7 +68,7 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 Following Notes, Code/notebooks are currently 'work in progress'. I document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
 
 ###### AI/DATA
-- [Data Science](https://github.com/asjad99/datascience-GYM) 
+- [Data Science](https://asjad99.github.io/datascience-GYM/) 
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [ML System Design](https://github.com/asjad99/data-engineering-ml-ops) 
 - [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
