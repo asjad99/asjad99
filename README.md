@@ -16,7 +16,7 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 
 
 
-#### AI Research Projects 
+#### AI Research Projects  🔭
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   
 - [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks
