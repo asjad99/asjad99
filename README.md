@@ -21,7 +21,7 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   
 - [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks
 - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Framework for decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  
-- [LSTMs for Sequtial Data Modeling](https://github.com/asjad99/context-aware-resource-allocation)  Decision Support for Context-aware Resource Allocation using LSTM networks 
+- [Sequential Data Modeling](https://github.com/asjad99/Sequence-Modeling)  
 
 #### Data Mining
 
