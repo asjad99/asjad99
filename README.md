@@ -2,7 +2,7 @@
 
 ####  Hi there 👋
 
- - I'm a inal year computer science Ph.D. student :mortar_board: at the University of Wollongong 
+ - I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong 
  - I enjoy coding in Python and am a open-source enthusiast
  - My work centres on exploring applications of machine learning for process analytics, Decision Support and natural language understanding of text. 
  - I have a passion for building intelligent systems and using them to solve real world problems. write about my experiences at https://www.asjadk.io
