@@ -1,6 +1,10 @@
 ####  Hi there 👋
 
-I am a Final year computer science Ph.D. student at the University of Wollongong  with a passion for building intelligent systems and using them to solve real world problems. My work centres on exploring applications of machine learning for process analytics, Decision Support and natural language understanding of text. I completed my undergraduate degree at GIK Institue. I completed my Masters’s degree in computer science with a distinction at the University of Wollongong. I write about my experiences at https://www.asjadk.io
+I am a: 
+ - Final year computer science Ph.D. student :mortar_board: at the University of Wollongong 
+ - Python and open-source enthusiast, with a passion for building intelligent systems and using them to solve real world problems. 
+ - My work centres on exploring applications of machine learning for process analytics, Decision Support and natural language understanding of text. 
+ - I write about my experiences at https://www.asjadk.io
 
 
 <a href="">
