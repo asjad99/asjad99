@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/3470924/117571945-213c6300-b114-11eb-9c7c-79a40678608a.mp4
+
 ####  Hi there 👋
 
 I am a: 
@@ -15,12 +18,6 @@ I am a:
 </a>
 
 
-
-----
-
-https://github.githubassets.com/images/modules/site/enterprise/launchpad/hero/enterprise-deathcat.h264.mp4
-
------
 
 #### AI Research Projects  🔭
 
