@@ -36,7 +36,7 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec 
 - [Question-Answering] - Biomedical Question Answering
 
-
+-----
 #### Web/Mobile
 
 - [twitter-graph]() 
@@ -45,10 +45,12 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 -  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
 
 ##### IOS APPS:
-  [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
-  
+  [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
+
+-----
+
 ##### Computer Graphics / Image Processing  
-- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot), [Education-Unity-Kinect](https://github.com/asjad99/KINEFF),  [Sketch](https://github.com/asjad99/Sketch), [Image Segmentation](https://github.com/asjad99/Image-Processing) , [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
+- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot), [Education-Unity-Kinect](https://github.com/asjad99/KINEFF),  [Sketch](https://github.com/asjad99/Sketch), [Image Segmentation](https://github.com/asjad99/Image-Processing) , [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor)
 
 
 -----
