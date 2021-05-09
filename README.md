@@ -43,20 +43,12 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 - Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
 -  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
+
 ##### IOS APPS:
   [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
   
-#### Computer Graphics / Image Processing  
-- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
-- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
-- [Sketch](https://github.com/asjad99/Sketch) - A MS. paint like application implemented in Java
-- [Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects. 
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors): object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
-- [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
-
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=asjad99&row=1)]()
-
+##### Computer Graphics / Image Processing  
+- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot), [Education-Unity-Kinect](https://github.com/asjad99/KINEFF),  [Sketch](https://github.com/asjad99/Sketch), [Image Segmentation](https://github.com/asjad99/Image-Processing) , [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor)  - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
 
 
 -----
