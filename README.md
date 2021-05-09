@@ -49,11 +49,15 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 
 -----
 
-##### Computer Graphics / Image Processing  
-- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot), [Education-Unity-Kinect](https://github.com/asjad99/KINEFF),  [Sketch](https://github.com/asjad99/Sketch), [Image Segmentation](https://github.com/asjad99/Image-Processing) , [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor)
+#### Computer Graphics / Image Processing 
+- [Sketch](https://github.com/asjad99/Sketch) -  A MS. paint like application implemented in Java
+- [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects.
+- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
+- [Robo-Soccor](https://github.com/asjad99/robot-soccor) - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
+- [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot), 
+- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
 
-
------
+-----------
 
 #### Open Source Learning: 
 
