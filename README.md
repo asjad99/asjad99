@@ -43,11 +43,9 @@ I am a Final year computer science Ph.D. student at the University of Wollongong
 - Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
 -  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
-- [IntroMe](https://github.com/asjad99/IntroMe): The apps semi-automates the process of introducing people by quickly send "intro" emails 
-- [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) -  The app keeps you up-to date with the latest prices of the most popular crypto currencies exchange rates around the globe. Currencies supported: NameCoin, LiteCoin , BitCoin , NovaCoin, PeerCoin , FeatherCoin, TerraCoin 
-- [insta-print](https://github.com/asjad99/InstaPrint): provides a no-hassle way of printing your digital photos(fb,instagram or gallery photos). The app collects print orders and allows the users to preview and make adjustments before sending them to the printing studio.  Efficient algorithms employed in the app ensure that the photo-quality is preserved during the sharing process.
-- [Raven](https://github.com/asjad99/Raven) RAVEN Messenger is a fast, and fun way to quickly capture and share moments with friends and family. Users have the option of a one to one or a group chat.
-
+##### IOS APPS:
+  [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
+  
 #### Computer Graphics / Image Processing  
 - [mars pathfinder robot](https://github.com/asjad99/mars_pathfinder_robot) - Map the mars terrain using Unity 3D simulation]
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)
