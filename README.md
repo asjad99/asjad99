@@ -7,6 +7,7 @@ I am a:
  - Python and open-source enthusiast, with a passion for building intelligent systems and using them to solve real world problems. 
  - My work centres on exploring applications of machine learning for process analytics, Decision Support and natural language understanding of text. 
  - I write about my experiences at https://www.asjadk.io
+ - You can explore some of my Side projects, Research Prototypes (Proof-of-Concept) below: 
 
 
 <a href="">
