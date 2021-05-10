@@ -27,7 +27,7 @@
 - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  
 - [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling
 
-###### Data Mining :yarn: 
+###### Data Mining 
 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Distributed Process Mining]()
@@ -53,7 +53,7 @@
 
 -----
 
-#### Computer Graphics / Image Processing :octopus:
+#### Computer Graphics / Image Processing :yarn:
 - [Sketch](https://github.com/asjad99/Sketch) -  A MS. paint like application implemented in Java
 - [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects.
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
@@ -63,7 +63,7 @@
 
 -----------
 
-#### Open Source Learning: 
+#### Open Source Learning:   :octopus:
 
 Following Notes, Code/notebooks are currently 'work in progress'. I document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
 
