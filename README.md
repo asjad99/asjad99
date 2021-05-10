@@ -2,7 +2,7 @@
 
 ####  Hi there 👋
 
- - I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong 
+ - I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong :classical_building:
  - My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. 
  - I have a passion for building intelligent systems(data products) and using them to solve real world problems. I write about my experiences at https://www.asjadk.io
  - I enjoy coding in Python and am a open-source enthusiast. Below i have shared some of the my recent Research Prototypes (Proof-of-Concept), course projects and side projects done in the past. 
@@ -20,20 +20,20 @@
 ####  Research Projects  🔭
 
 
-###### AI and Deep Learning
+###### AI and Deep Learning :electron:	
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   
 - [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks
 - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  
 - [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling
 
-###### Data Mining
+###### Data Mining :yarn: 
 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Distributed Process Mining]()
 - [Federated Learaning]()
 
-###### Information Retreival 
+###### Information Retreival :file_cabinet: :mag_right:
 
 - [Elastic Search]() - 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark 
@@ -41,19 +41,19 @@
 - [Question-Answering] - Biomedical Question Answering
 
 -----
-#### Web/Mobile
+#### Web/Mobile :turtle:
 
 - [twitter-graph]() 
 - Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
 -  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
 
-##### IOS APPS:
+##### IOS APPS: :iphone: 
   [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
 
 -----
 
-#### Computer Graphics / Image Processing 
+#### Computer Graphics / Image Processing :octopus:
 - [Sketch](https://github.com/asjad99/Sketch) -  A MS. paint like application implemented in Java
 - [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects.
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
