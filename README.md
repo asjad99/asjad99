@@ -17,20 +17,23 @@
 
 
 
-#### AI Research Projects  🔭
+####  Research Projects  🔭
+
+
+##### AI and Deep Learning
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   
 - [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks
 - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  
 - [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling
 
-#### Data Mining
+##### Data Mining
 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence
 - [Distributed Process Mining]()
 - [Federated Learaning]()
 
-#### Information Retreival 
+##### Information Retreival 
 
 - [Elastic Search]() - 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark 
