@@ -4,7 +4,7 @@
 
  - I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong 
  - I enjoy coding in Python and am a open-source enthusiast
- - My recent work centres around exploring applications of machine learning for process analytics, Decision Support and natural language understanding of text. 
+ - My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. 
  - I have a passion for building intelligent systems(data products) and using them to solve real world problems. 
  - I write about my experiences at https://www.asjadk.io
  - You can explore some of my  Research Prototypes (Proof-of-Concept), course projects and side projects below: 
