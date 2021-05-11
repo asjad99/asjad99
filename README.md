@@ -23,9 +23,9 @@
 ###### AI and Deep Learning :electron:	
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   [Paper]() [Blog_post]()
-- [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [Paper]() [Blog_post]()
-- [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)   [Paper]() [Blog_post]()
-- [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling
+- [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [Paper]() [[Blog Post](https://www.asjadk.io/deepprocess/)]
+- [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)   [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
+- [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
 
 ###### Data Mining 
 
@@ -36,7 +36,7 @@
 ###### Information Retreival :file_cabinet: :mag_right:
 
 - [Elastic Search]() 
-- [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark 
+- [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
 - [Question-Answering] - Biomedical Question Answering
 
