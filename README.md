@@ -37,7 +37,7 @@
 
 - [Elastic Search]() 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark 
-- [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec 
+- [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
 - [Question-Answering] - Biomedical Question Answering
 
 see [Paper]() for a combined end-to-end IR system
