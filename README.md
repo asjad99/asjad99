@@ -22,8 +22,8 @@
 
 ###### AI and Deep Learning :electron:	
 
-- [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   [Paper]() [Blog_post]()
-- [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [Paper]() [[Blog Post](https://www.asjadk.io/deepprocess/)]
+- [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   [[Paper]()] [[Blog Post]()]
+- [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [[Paper]()] [[Blog Post](https://www.asjadk.io/deepprocess/)]
 - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)   [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
 - [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
 
