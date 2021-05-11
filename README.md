@@ -75,7 +75,8 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 - [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [ML System Design](https://github.com/asjad99/data-engineering-ml-ops) 
-- [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
+
+
 
 ###### CS (planned)
 - [Programming Paradigms](https://github.com/asjad99/programming-paradigms-)
@@ -84,10 +85,16 @@ Following Notes, Code/notebooks are currently 'work in progress'. I document som
 - [Distributed Systems](https://github.com/asjad99/Distributed-Systems)
 - [Information Retreival -Algorithms]()
 
+###### MISC
+- [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
+- [MicroEconomics]() 
+- [Game Theory]()
+- [Physics]()
+
 ###### Software Engineering 
-- [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 - [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
 - [Project Management](https://github.com/asjad99/project-management) 
+- [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
 
 
 <em> I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts.
