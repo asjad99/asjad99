@@ -67,43 +67,7 @@ see [Paper]() for a combined end-to-end IR system
 
 #### Open Source Learning:   :octopus:
 
-Following Notes, Code/notebooks are currently 'work in progress'. I document some of my own learnings and acts as a [road map](https://i.am.ai/roadmap/#fundamentals) for self-taught learners out there to learn CS/ML/data science for free. 
-
-###### AI/DATA
-- [Data Science](https://asjad99.github.io/datascience-GYM/) 
-- [Process Analytics](https://github.com/asjad99/process-analytics)
-- [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-- [ML System Design](https://github.com/asjad99/data-engineering-ml-ops) 
-
-
-
-###### CS (planned)
-- [Programming Paradigms](https://github.com/asjad99/programming-paradigms-)
-- [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
-- [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
-- [Distributed Systems](https://github.com/asjad99/Distributed-Systems)
-- [Information Retreival -Algorithms]()
-
-###### MISC
-- [Math for AI and CS](https://www.overleaf.com/project/60321e0c4ca63c16ec680cde)
-- [MicroEconomics]() 
-- [Game Theory]()
-- [Physics]()
-
-###### Software Engineering 
-- [Large Scale Requirements Engineering](https://github.com/asjad99/Requirements-Engineering-) (doc. only)
-- [Project Management](https://github.com/asjad99/project-management) 
-- [Large Scale Autoamted Software Testing](https://github.com/asjad99/Software-Testing-/blob/master/Report.pdf)
-
-
-<em> I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts.
-
-And that’s what a computer is to me. What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” ~ Steve Jobs
-
-
-In the information age, the barriers [to entry into programming] just aren't there. The barriers are self imposed. If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap $\mathrm{PC}$ to work on, and the dedication to go through with it. We slept on floors. We waded across rivers. - John Carmack </em>
-
+[My Notes on various topics](https://github.com/asjad99/asjad99.github.io/blob/main/README.md) 
 
 <!-- Moonshots: 
 https://github.com/ossu/computer-science#readme
