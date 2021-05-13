@@ -29,7 +29,7 @@
 
 ###### Data Mining 
 
-- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog_post]()
+- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
 - [Distributed Process Mining]() [Paper]()
 - [Federated Learaning]() [Paper]()
 
