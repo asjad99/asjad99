@@ -37,8 +37,6 @@
 
 - [Elastic Search]() 
 
-<!--
-https://www.manning.com/books/relevant-search
 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
