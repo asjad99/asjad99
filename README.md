@@ -22,12 +22,27 @@
 
 ###### AI and Deep Learning :electron:	
 
+Machine learning is full of fascinating open problems like generation, intelligent exploration vs exploitation in the context of RL agents, and Meta-Learning.  
+
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   [[Paper]()] [[Blog Post]()]
+
+AI plays a key role in operation and strategic future business Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)
+
+At operational level AI can provide recommendations to support business process executions: 
+
 - [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog Post](https://www.asjadk.io/deepprocess/)]
-- [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)   [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
+
+At Strategic level it can help bussiness come up with robust plans. We explore this in the following project: 
+
+- [Alpha-GS](https://github.com/asjad99/rosetta_stone) -   [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
+
+Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequatial data problems.  
+
 - [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
 
+
 ###### Data Mining 
+
 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
 - [Distributed Process Mining]() [Paper]()
@@ -35,7 +50,9 @@
 
 ###### Information Retreival :file_cabinet: :mag_right:
 
-- [Elastic Search]() 
+I find the topic of Information retreival 
+
+I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. 
 
 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
@@ -44,18 +61,6 @@
 
 see [Paper]() for a combined end-to-end IR system
 
------
-#### Web/Mobile :turtle:
-
-- [twitter-graph]() 
-- Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
-- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
--  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
-
-##### IOS APPS: :iphone: 
-  [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
-
------
 
 #### Computer Graphics / Image Processing :yarn:
 - [Sketch](https://github.com/asjad99/Sketch) -  A MS. paint like application implemented in Java
@@ -64,6 +69,19 @@ see [Paper]() for a combined end-to-end IR system
 - [Robo-Soccor](https://github.com/asjad99/robot-soccor) - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
 - [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot) - Navgiate around to map the mars terrain using Unity 3D simulation 
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
+
+
+-----
+#### Web/Mobile :turtle:
+
+- [Elastic Search]() 
+- [twitter-graph]() 
+- Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
+- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
+-  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
+
+##### IOS APPS: :iphone: 
+  [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
 
 -----------
 
