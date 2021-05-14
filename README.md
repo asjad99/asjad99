@@ -28,15 +28,11 @@
 
 - AI plays a key role in operation and strategic future business Decision Making
  
-   - At operational level AI can provide recommendations to support business process executions. We explorate this application in the following project: 
+   - At operational level AI can provide recommendations to support business process executions. We explorate this application in the following project  [DeepProcess:](https://github.com/asjad99/DeepProcess) Project where we use Memory Augmented Neural Networks  for Predictive Process Monitoring. see  [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog Post](https://www.asjadk.io/deepprocess/)]
 
- [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog Post](https://www.asjadk.io/deepprocess/)]
-
-   - At Strategic level AI can help bussiness come up with robust plans. We explore this in the following project: 
-     - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
+   - At Strategic level AI can help bussiness come up with robust plans. We explore this in the Alpha-GS project: [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
 
 - Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequatial data problems.  
-
   -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
 
 
@@ -48,7 +44,11 @@ Data Mining methods provide mechanisms for finding meaningful insights, patterns
 - [Distributed Process Mining]() [Paper]()
 - [Federated Learaning]() [Paper]()
 
-###### Information Retreival :file_cabinet: :mag_right:
+
+----
+
+
+#### Information Retreival :file_cabinet: :mag_right:
 
 Information retreival is an interesting with a lot of room for contribution. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. 
 
