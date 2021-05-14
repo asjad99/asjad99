@@ -24,7 +24,7 @@
 
 - Machine learning is full of fascinating open problems like Generalization, intelligent exploration vs exploitation in the context of RL agents, and Counter-factual Learning. It holds the potential to have a deep impact on domains like industrial automation, healthcare and Education. I explore the healthcare applications of machine learning in the following project: 
 
-⋅⋅⋅[MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   [[Paper]()] [[Blog Post]()]
+... [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   [[Paper]()] [[Blog Post]()]
 
 - AI plays a key role in operation and strategic future business Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)
 
