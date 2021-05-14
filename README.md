@@ -22,7 +22,7 @@
 
 ###### AI and Deep Learning :electron:	
 
-Machine learning is full of fascinating open problems like generation, intelligent exploration vs exploitation in the context of RL agents, and Meta-Learning.  
+Machine learning is full of fascinating open problems like Generalization, intelligent exploration vs exploitation in the context of RL agents, and Counter-factual Learning. It holds the potential to have a deep impact on domains like industrial automation, healthcare and Education. I explore the healthcare applications of machine learning in the following project: 
 
 - [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   [[Paper]()] [[Blog Post]()]
 
@@ -43,6 +43,7 @@ Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods 
 
 ###### Data Mining 
 
+Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be 
 
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
 - [Distributed Process Mining]() [Paper]()
