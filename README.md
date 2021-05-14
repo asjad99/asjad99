@@ -81,7 +81,12 @@ see [Paper]() for a combined end-to-end IR system
 
 #### Open Source Learning:   :octopus:
 
-[My Notes on various topics](https://github.com/asjad99/asjad99.github.io/blob/main/README.md) 
+- [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
+- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- [Data Science](https://asjad99.github.io/datascience-GYM/) 
+
+
+[Other topics](https://github.com/asjad99/asjad99.github.io/blob/main/README.md) 
 
 <!-- Moonshots: 
 https://github.com/ossu/computer-science#readme
