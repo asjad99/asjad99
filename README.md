@@ -23,7 +23,7 @@
 
   -  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  This paper proides a framework Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning.  While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. We implement a case study to answer the question: Given a particular patient’s characteristics and physiological information ateach time step as input, can our proposed framework learn an optimal treatmentpolicy that can prescribe the right intervention(e.g use of ventilator) to the patientat each stage of the treatment process, in order to improve the final outcome(e.gpatient mortality)?   [[Paper]()] [[Blog Post]()]. 
 
-- AI plays a key role in operation and strategic future business Decision Making. See this paper for a broad overview of process analytics: 
+- AI plays a key role in operation and strategic future business Decision Making. See this paper for a broad overview of AI's impact on Supporting and improving business processes.  
  
    - At operational level AI can provide recommendations to support business process executions. We explorate this application in the following project  [DeepProcess:](https://github.com/asjad99/DeepProcess) Project where we use Memory Augmented Neural Networks  for Predictive Process Monitoring. see  [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog Post](https://www.asjadk.io/deepprocess/)]
 
