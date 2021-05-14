@@ -2,10 +2,7 @@
 
 ####  Hi there 👋
 
- - I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong :classical_building:
- - My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. 
- - I have a passion for building intelligent systems(data products) and using them to solve real world problems. I write about my experiences at https://www.asjadk.io
- - I enjoy coding in Python and am a open-source enthusiast. Below i have shared some of the my recent Research Prototypes (Proof-of-Concept), course projects and side projects done in the past. 
+ I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong :classical_building:. My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. I have a passion for building intelligent systems(data products) and using them to solve real world problems. I write about my experiences at https://www.asjadk.io. I enjoy coding in Python and am a open-source enthusiast. Below i have shared some of the my recent Research Prototypes (Proof-of-Concept), course projects and side projects done in the past. 
 
 
 <a href="">
