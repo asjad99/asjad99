@@ -26,15 +26,14 @@
 
   -  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  This paper proides a framework Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning. We implement a case study to answer the question: Given a particular patient’s characteristics and physiological information ateach time step as input, can our proposed framework learn an optimal treatmentpolicy that can prescribe the right intervention(e.g use of ventilator) to the patientat each stage of the treatment process, in order to improve the final outcome(e.gpatient mortality)?   [[Paper]()] [[Blog Post]()]. 
 
-- AI plays a key role in operation and strategic future business Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)
+- AI plays a key role in operation and strategic future business Decision Making
  
-   - At operational level AI can provide recommendations to support business process executions: 
+   - At operational level AI can provide recommendations to support business process executions. We explorate this application in the following project: 
 
  [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog Post](https://www.asjadk.io/deepprocess/)]
 
-  - At Strategic level it can help bussiness come up with robust plans. We explore this in the following project: 
-
-    - [Alpha-GS](https://github.com/asjad99/rosetta_stone) -   [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
+   - At Strategic level AI can help bussiness come up with robust plans. We explore this in the following project: 
+     - [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
 
 - Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequatial data problems.  
 
@@ -51,10 +50,7 @@ Data Mining methods provide mechanisms for finding meaningful insights, patterns
 
 ###### Information Retreival :file_cabinet: :mag_right:
 
-I find the topic of Information retreival 
-
-I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. 
-
+Information retreival is an interesting with a lot of room for contribution. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. 
 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
