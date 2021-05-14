@@ -24,21 +24,21 @@
 
 - Machine learning is full of fascinating open problems like Generalization, intelligent exploration vs exploitation in the context of RL agents, and Counter-factual Learning. It holds the potential to have a deep impact on domains like industrial automation, healthcare and Education. I explore the healthcare applications of machine learning in the following project: 
 
-*** [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning   [[Paper]()] [[Blog Post]()]
+  -  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) -  This paper proides a framework Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning. We implement a case study to answer the question: Given a particular patient’s characteristics and physiological information ateach time step as input, can our proposed framework learn an optimal treatmentpolicy that can prescribe the right intervention(e.g use of ventilator) to the patientat each stage of the treatment process, in order to improve the final outcome(e.gpatient mortality)?   [[Paper]()] [[Blog Post]()]. 
 
 - AI plays a key role in operation and strategic future business Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)
  
    - At operational level AI can provide recommendations to support business process executions: 
 
-⋅⋅⋅ [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog Post](https://www.asjadk.io/deepprocess/)]
+ [DeepProcess:](https://github.com/asjad99/DeepProcess) - Predictive Process Monitoring using Memory Augmented Neural Networks [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog Post](https://www.asjadk.io/deepprocess/)]
 
-⋅⋅* At Strategic level it can help bussiness come up with robust plans. We explore this in the following project: 
+  - At Strategic level it can help bussiness come up with robust plans. We explore this in the following project: 
 
-⋅⋅⋅ [Alpha-GS](https://github.com/asjad99/rosetta_stone) -   [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
+    - [Alpha-GS](https://github.com/asjad99/rosetta_stone) -   [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
 
 - Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequatial data problems.  
 
-⋅⋅* [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
+  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
 
 
 ###### Data Mining 
