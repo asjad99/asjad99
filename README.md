@@ -54,19 +54,16 @@ Information retreival is an interesting with a lot of room for contribution. I h
 
 see [Paper]() for a combined end-to-end IR system
 
+-----
+
 
 #### Computer Graphics / Image Processing :yarn:
 - [Sketch](https://github.com/asjad99/Sketch), [Automated Image Segmentation](https://github.com/asjad99/Image-Processing), [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor), [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),[Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
 
------
-
 #### Web/Mobile :turtle:
 
-- [Elastic Search]() 
-- [twitter-graph]() 
-- Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
-- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Web Crawlers (Python/JSON) for data collection via scrapping
--  is an iOS app providing similar functionality as It provides features such as receiving Bitcoins with your unique identify stored on a decentralized blockchain. It is powered by the same technology as that of BitCoin technology
+- [Elastic Search]() , [twitter-graph]() , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), 
+ Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
 
 ##### IOS APPS: :iphone: 
   [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
