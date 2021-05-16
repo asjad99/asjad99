@@ -44,7 +44,6 @@ Data Mining methods provide mechanisms for finding meaningful insights, patterns
 
 ----
 
-
 #### Information Retreival :file_cabinet: :mag_right:
 
 Information retreival is an interesting with a lot of room for contribution. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. 
@@ -57,13 +56,7 @@ see [Paper]() for a combined end-to-end IR system
 
 
 #### Computer Graphics / Image Processing :yarn:
-- [Sketch](https://github.com/asjad99/Sketch) -  A MS. paint like application implemented in Java
-- [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects.
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - object detection, Implemented in Labview, to classify hand images. It allows users to play the classic rock paper scissors game with the computer.
-- [Robo-Soccor](https://github.com/asjad99/robot-soccor) - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
-- [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot) - Navgiate around to map the mars terrain using Unity 3D simulation 
-- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
-
+- [Sketch](https://github.com/asjad99/Sketch), [Automated Image Segmentation](https://github.com/asjad99/Image-Processing), [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor), [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),[Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
 
 -----
 
