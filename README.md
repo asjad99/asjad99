@@ -72,12 +72,10 @@ see [Paper]() for a combined end-to-end IR system
 
 #### Open Source Learning:   :octopus:
 
-- [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-- [Data Science](https://asjad99.github.io/datascience-GYM/) 
+I like the idea of [building a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. Below you can find some of the (incomplete) notes: 
 
 
-[Other topics](https://github.com/asjad99/asjad99.github.io/blob/main/README.md) 
+[Open Source Learning](https://github.com/asjad99/asjad99.github.io/blob/main/README.md) 
 
 <!-- Moonshots: 
 https://github.com/ossu/computer-science#readme
