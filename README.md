@@ -44,7 +44,7 @@ Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods 
 
 ----
 
-#### Information Retreival :file_cabinet: :mag_right: /  Data Mining 
+#### Information Retreival :file_cabinet: /  Data Mining :mag_right: 
 
 - Information retreival is an interesting with a lot of room for contribution. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. 
 - Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be 
