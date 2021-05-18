@@ -38,24 +38,23 @@ Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods 
   -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
 
 
-###### Data Mining 
+######
 
-Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be 
-
-- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
-- [Distributed Process Mining]() [Paper]()
-- [Federated Learaning]() [Paper]()
 
 
 ----
 
-#### Information Retreival :file_cabinet: :mag_right:
+#### Information Retreival :file_cabinet: :mag_right: /  Data Mining 
 
-Information retreival is an interesting with a lot of room for contribution. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. 
+- Information retreival is an interesting with a lot of room for contribution. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. 
+- Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be 
 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
 - [Question-Answering] - Biomedical Question Answering
+- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
+- [Distributed Process Mining]() [Paper]()
+- [Federated Learaning]() [Paper]()
 
 see [Paper]() for a combined end-to-end IR system
 
@@ -79,9 +78,14 @@ see [Paper]() for a combined end-to-end IR system
 
 I like the idea of [building a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. Below you can find some of the (incomplete) notes: 
 
+1.  [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+2.  [Data Science](https://asjad99.github.io/datascience-GYM/) 
+3.  [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
+4.  [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
+5.  [ML Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
+6.  [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
 
-[Open Source Learning](https://github.com/asjad99/asjad99.github.io/blob/main/README.md) 
-
+-
 <!-- Moonshots: 
 https://github.com/ossu/computer-science#readme
 Human-level concept learning through probabilistic program induction
