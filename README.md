@@ -46,16 +46,16 @@ Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods 
 
 #### Information Retreival :file_cabinet: /  Data Mining :mag_right: 
 
-Information retreival is an interesting with a lot of room for contribution. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be 
+Using machine learning to perform Information retrival is an interesting challenge. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. Similarly, Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
+and so on. 
 
 - [Latent Semantic Indexing]() - Scalable Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Semantic Similarity using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
-- [Question-Answering] - Biomedical Question Answering
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
-- [Distributed Process Mining]() [Paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)
-- [Federated Learaning]() [Paper]()
+- [Distributed Process Mining]() Extract Process Models from ditributed process logs [Paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)
+- [Question-Answering] - Biomedical Question Answering
+- [Federated Learning]() [Paper]()
 
-see [Paper]() for a combined end-to-end IR system
 
 -----
 
