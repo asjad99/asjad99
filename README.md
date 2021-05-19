@@ -35,7 +35,6 @@ AI plays a key role in operational and strategic Business decision making.
 
 Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequential data problems.  
 
-  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
 
 
 ###### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
@@ -51,9 +50,9 @@ and so on.
 - [Coversational AI] - Explore LaMDA 
 
 ###### Data Mining 
-
-- [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
-- [Distributed Process Mining]() Extract Process Models from ditributed process logs [Paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)
+  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling. See Recommender System [[Case Study](https://www.asjadk.io/music/)]
+  -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
+  - [Distributed Process Mining]() Extract Process Models from ditributed process logs [Paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)
 - [Federated Learning]() [Paper]()
 
 
