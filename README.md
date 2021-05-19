@@ -14,17 +14,17 @@
 
 
 
-####  Research Projects  🔭
+####  Research Projects  🔭 :electron:	
+
+The field of Artiifical intelligence is full full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/) and Sample Efficient Learning. Progress in solving these problems, can have a major impact impact on domains like industrial automation, healthcare and Education. 
 
 
-###### AI and Deep Learning :electron:	
-
-Fields like Machine learning and Reinforcement Learning are full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/) and Sample Efficient Learning. Progress in solving these problems, can have a major impact impact on domains like industrial automation, healthcare and Education. 
-
+###### Healthcare 
 
 - In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) , I explore the healthcare applications of machine learning. This project provides a framework for Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning.  While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. We implement a case study to answer the question: Given a particular patient’s characteristics and physiological information ateach time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.gpatient mortality)?   [[Paper]()] [[Blog Post]()]. 
 
 
+###### Process Analytics 
 AI plays a key role in operational and strategic Business decision making. 
 
  - I survey the broad overview of AI's impact on Supporting and improving business processes.  [Paper]()
@@ -33,18 +33,12 @@ AI plays a key role in operational and strategic Business decision making.
 
   - At Strategic level AI can help bussiness come up with robust plans. We explore this in the Alpha-GS project: [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
 
-Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequatial data problems.  
+Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequential data problems.  
 
   -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling [[Case Study](https://www.asjadk.io/music/)]
 
 
-######
-
-
-
-----
-
-#### Information Retreival :file_cabinet: /  Data Mining :mag_right: 
+###### Knowledge Discovery / Data Mining :mag_right:  :file_cabinet:
 
 Using machine learning to perform Information retrival is an interesting challenge. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. Similarly, Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
 and so on. 
@@ -57,10 +51,12 @@ and so on.
 - [Federated Learning]() [Paper]()
 
 
------
+#### Computer Vision / Image Processing :yarn:
 
-#### Computer Graphics / Image Processing :yarn:
-- [Sketch](https://github.com/asjad99/Sketch), [Automated Image Segmentation](https://github.com/asjad99/Image-Processing), [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor), [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),[Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
+
+Some of the other projects I have done include: [Sketch](https://github.com/asjad99/Sketch), [Automated Image Segmentation](https://github.com/asjad99/Image-Processing), [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor), [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),[Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
+
+-------
 
 #### Web/Mobile :turtle:
 
