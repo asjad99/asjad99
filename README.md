@@ -16,13 +16,13 @@
 
 ####  Research Projects  🔭 :electron:	
 
-The field of Artiifical intelligence is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), [Meta-Learning
+The field of Artifical intelligence and Machine Learning is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), [Meta-Learning
 ]() and Sample Efficient Learning. Progress in solving these problems, can have a major impact impact on domains like industrial automation, healthcare and Education. 
 
 
 ###### Healthcare 
 
-Digitiization of healthcare data along development on new AI techniques posed to have a major impact on healthcare. I'm particular interesting in using AI to assist clinicians, during partient treatment. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. 
+Digitization of healthcare data along algorithmic breakthroughts in AI will have a major impact on healthcare delivery in coming years. I'm particularly interested in application of AI to assist clinicians during partient treatment. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. 
  
 - In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) , This project provides a framework for Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning. We implement a case study to answer the question: Given a particular patient’s characteristics and physiological information ateach time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.gpatient mortality)?   [[Paper]()] [[Blog Post]()]. 
 
