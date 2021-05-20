@@ -16,12 +16,15 @@
 
 ####  Research Projects  🔭 :electron:	
 
-The field of Artiifical intelligence is full full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/) and Sample Efficient Learning. Progress in solving these problems, can have a major impact impact on domains like industrial automation, healthcare and Education. 
+The field of Artiifical intelligence is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), [Meta-Learning
+]() and Sample Efficient Learning. Progress in solving these problems, can have a major impact impact on domains like industrial automation, healthcare and Education. 
 
 
 ###### Healthcare 
 
-- In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) , I explore the healthcare applications of machine learning. This project provides a framework for Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning.  While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. We implement a case study to answer the question: Given a particular patient’s characteristics and physiological information ateach time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.gpatient mortality)?   [[Paper]()] [[Blog Post]()]. 
+Digitiization of healthcare data along development on new AI techniques posed to have a major impact on healthcare. I'm particular interesting in using AI to assist clinicians, during partient treatment. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. 
+ 
+- In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) , This project provides a framework for Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning. We implement a case study to answer the question: Given a particular patient’s characteristics and physiological information ateach time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.gpatient mortality)?   [[Paper]()] [[Blog Post]()]. 
 
 
 ###### Process Analytics 
@@ -39,7 +42,7 @@ Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods 
 
 ###### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
 
-Language understanding remains an ongoing challenge, and Search is not a solved problem. I have been involved in various academic and industry projects related to information retreival/knowledge discovery. I'm interested in exploring applications of  machine learning to understand language and make improve information/knowledge retreival.
+Language understanding remains an ongoing challenge, and Search is not a solved problem. I have been involved in various academic and industry projects related to information retreival/knowledge discovery. I'm interested in exploring applications of  machine learning to understand language, particularly problems like [Few-Shot Text Classification](), [Summarization](), [Automated Question Answering]() and [Transfer Learning](). 
 
 - [Elastic Search]()  - Scalable keywrod Search using Elasticsearch
 - [Latent Semantic Indexing]() - Scalable Semantic Search using Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
