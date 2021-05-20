@@ -58,10 +58,10 @@ and so on.
 - [Federated Learning]() [Paper]()
 
 
-#### Computer Vision / Image Processing :yarn:
+#### Computational Imaging:yarn:
 
 
-Some of the other projects I have done include: [Sketch](https://github.com/asjad99/Sketch), [Automated Image Segmentation](https://github.com/asjad99/Image-Processing), [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor), [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),[Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
+Some of the other computer vision / Image Processing side-projects/course projects I have done include: [Sketch](https://github.com/asjad99/Sketch), [Automated Image Segmentation](https://github.com/asjad99/Image-Processing), [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor), [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),[Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
 
 -------
 
