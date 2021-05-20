@@ -39,8 +39,7 @@ Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods 
 
 ###### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
 
-Using machine learning to perform Information retrival is an interesting challenge. I have been involved in various academic and industry projects related to information retreival. I'm interested in exploring applications of NLP in making search better. Similarly, Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
-and so on. 
+Language understanding remains an ongoing challenge, and Search is not a solved problem. I have been involved in various academic and industry projects related to information retreival/knowledge discovery. I'm interested in exploring applications of  machine learning to understand language and make improve information/knowledge retreival.
 
 - [Elastic Search]()  - Scalable keywrod Search using Elasticsearch
 - [Latent Semantic Indexing]() - Scalable Semantic Search using Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
@@ -50,6 +49,9 @@ and so on.
 - [Coversational AI] - Explore LaMDA 
 
 ###### Data Mining 
+
+Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
+and so on. 
   -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling. See Recommender System [[Case Study](https://www.asjadk.io/music/)]
   -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
   - [Distributed Process Mining]() Extract Process Models from ditributed process logs [Paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)
