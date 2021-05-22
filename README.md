@@ -20,6 +20,8 @@ The field of Artifical intelligence and Machine Learning is full of [fascinating
 ]() and Sample Efficient Learning. Progress in solving these problems, can have a major impact impact on domains like industrial automation, healthcare and Education. 
 
 
+##### Decision Support Systems: 
+
 ###### Healthcare 
 
 Digitization of healthcare data along algorithmic breakthroughts in AI will have a major impact on healthcare delivery in coming years. I'm particularly interested in application of AI to assist clinicians during partient treatment. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. 
@@ -37,7 +39,6 @@ AI plays a key role in operational and strategic Business decision making.
   - At Strategic level AI can help bussiness come up with robust plans. We explore this in the Alpha-GS project: [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
 
 Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequential data problems.  
-
 
 
 ###### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
