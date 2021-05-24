@@ -59,12 +59,25 @@ and so on.
 - [Federated Learning]() [Paper]()
 
 
-#### Computational Imaging:yarn:
+#### Open Source Learning:   :octopus:
 
+I like the idea of [building a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. Below you can find some of the (incomplete) notes: 
 
-Some of the other computer vision / Image Processing side-projects/course projects I have done include: [Sketch](https://github.com/asjad99/Sketch), [Automated Image Segmentation](https://github.com/asjad99/Image-Processing), [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor), [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),[Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
+1.  [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+2.  [Data Science](https://asjad99.github.io/datascience-GYM/) 
+3.  [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
+4.  [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
+5.  [ML Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
+6.  [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
+
 
 -------
+
+### Side Projects 
+
+#### Image Processing/Computer Graphics:yarn:
+
+Some of the other computer vision / Image Processing side-projects/course projects I have done include: [Sketch](https://github.com/asjad99/Sketch), [Automated Image Segmentation](https://github.com/asjad99/Image-Processing), [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-), [Robo-Soccor](https://github.com/asjad99/robot-soccor), [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),[Education-Unity-Kinect](https://github.com/asjad99/KINEFF)  
 
 #### Web/Mobile :turtle:
 
@@ -76,16 +89,7 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 -----------
 
-#### Open Source Learning:   :octopus:
 
-I like the idea of [building a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. Below you can find some of the (incomplete) notes: 
-
-1.  [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-2.  [Data Science](https://asjad99.github.io/datascience-GYM/) 
-3.  [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
-4.  [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-5.  [ML Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
-6.  [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
 
 
 <!-- Moonshots: 
