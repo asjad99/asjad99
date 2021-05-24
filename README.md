@@ -26,14 +26,11 @@ The field of Artifical intelligence and Machine Learning is full of [fascinating
 
 Digitization of healthcare data along algorithmic breakthroughts in AI will have a major impact on healthcare delivery in coming years. I'm particularly interested in application of AI to assist clinicians during partient treatment. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. 
  
-- In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) , This project provides a framework for Decision Support for Clinicians treating Sepsis using Deep Reinforcement Learning. We implement a case study to answer the question: Given a particular patient’s characteristics and physiological information ateach time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.gpatient mortality)?   [[Paper]()] [[Blog Post]()]. 
-
+- In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) we investigate the problem of developing a Clinical Decision Support System for Sepsis Management using Deep Reinforcement Learning. In our implementation we try to answer the following question: Given a particular patient’s characteristics and physiological information at each time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.g patient mortality)?   [[Paper]()] [[Blog Post]()]. 
 
 ###### Process Analytics 
-AI plays a key role in operational and strategic Business decision making. 
+AI plays a key role in operational and strategic Business decision making. Take a look at the [Survey]() for a broad overview of AI's impact on supporting and improving business processes. I have been involved in the following projects for my PhD thesis:  
 
- - I survey the broad overview of AI's impact on Supporting and improving business processes.  [Paper]()
- 
  - At operational level AI can provide recommendations to support business process executions. We explorate this application in the following project  [DeepProcess:](https://github.com/asjad99/DeepProcess) Project where we use Memory Augmented Neural Networks  for Predictive Process Monitoring. see  [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog Post](https://www.asjadk.io/deepprocess/)]
 
   - At Strategic level AI can help bussiness come up with robust plans. We explore this in the Alpha-GS project: [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT)  [Paper]() [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
