@@ -46,8 +46,8 @@ Language understanding remains an ongoing challenge, and Search is not a solved 
 - [Latent Semantic Indexing]() - Scalable Semantic Search using Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Extract Know-how from text using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
 - [Reading Comprehension] - Biomedical Question Answering using Transformers 
-- [Code Search] - 
-- [Coversational AI] - Explore LaMDA 
+- [Code Search]() - 
+- [Coversational AI]() - Explore LaMDA 
 
 ###### Data Mining 
 
@@ -55,8 +55,8 @@ Data Mining methods provide mechanisms for finding meaningful insights, patterns
 and so on. 
   -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling. See Recommender System [[Case Study](https://www.asjadk.io/music/)]
   -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
-  - [Distributed Process Mining]() Extract Process Models from ditributed process logs [Paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)
-- [Federated Learning]() [Paper]()
+  - [Distributed Process Mining]() Extract Process Models from ditributed process logs [[Paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)]
+- [Federated Learning]() - Build Distributed Models  [[Paper]()]
 
 
 #### Open Source Learning:   :octopus:
