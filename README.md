@@ -63,12 +63,16 @@ and so on.
 
 I like the idea of [building a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. Below you can find some of the (incomplete) notes: 
 
+
+- Interesting Data Problems [Theory](https://www.overleaf.com/read/tmbwrfbkdpjx) [Code](https://github.com/asjad99/Algorithms_GYM) 
+
+Practical Machine Learning and Data Science: 
 1.  [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 2.  [Data Science](https://asjad99.github.io/datascience-GYM/) 
 3.  [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
 4.  [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-5.  [ML Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
-6.  [Theoratical Computer Science and Data Algorithms](https://github.com/asjad99/Algorithms_GYM) 
+6.  [ML Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
+
 
 
 -------
