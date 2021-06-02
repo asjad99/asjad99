@@ -27,6 +27,7 @@ The field of Artifical intelligence and Machine Learning is full of [fascinating
 Digitization of healthcare data along algorithmic breakthroughts in AI will have a major impact on healthcare delivery in coming years. I'm particularly interested in application of AI to assist clinicians during partient treatment. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. 
  
 - In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) we investigate the problem of developing a Clinical Decision Support System for Sepsis Management using Deep Reinforcement Learning. In our implementation we try to answer the following question: Given a particular patient’s characteristics and physiological information at each time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.g patient mortality)?   [[Paper]()] [[Blog Post]()]. 
+- Medical Data is Often Distribtuted and privacy concerns prevent us from building a central data-warehouse. Using Mulit-party Secure sum we can extract process models from distributed healthcare process logs. An idea we explore in this [[paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)]. Similary we can build distributed models using techniques like fedeerated average. See the [[Paper]()] for more details. 
 
 ###### Process Analytics 
 AI plays a key role in operational and strategic Business decision making. Take a look at the [Survey]() for a broad overview of AI's impact on supporting and improving business processes. I have been involved in the following projects for my PhD thesis:  
@@ -53,10 +54,8 @@ Language understanding remains an ongoing challenge, and Search is not a solved 
 
 Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
 and so on. 
-  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Sequential Data Modeling. See Recommender System [[Case Study](https://www.asjadk.io/music/)]
-  -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post]()
-  - [Distributed Process Mining]() Extract Process Models from ditributed process logs [[Paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)]
-- [Federated Learning]() - Build Distributed Models  [[Paper]()]
+  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Building Recommender Systems using sequential Data Modeling. See [[Blog Post](https://www.asjadk.io/music/)]
+  -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post](https://www.asjadk.io/revealing-taxi-drivers-mobility-intelligence-through-his-trace/)
 
 
 #### Open Source Learning:   :octopus:
