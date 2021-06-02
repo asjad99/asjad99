@@ -60,21 +60,17 @@ and so on.
 
 #### Open Source Learning:   :octopus:
 
-I like the idea of [building a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. Below you can find some of the (incomplete) notes: 
+I like the idea of having [a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. 
 
 
-- Interesting Data Problems [Theory](https://www.overleaf.com/read/tmbwrfbkdpjx) [Code](https://github.com/asjad99/Algorithms_GYM) 
-
-Practical Machine Learning and Data Science: 
-1.  [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-2.  [Data Science](https://asjad99.github.io/datascience-GYM/) 
-3.  [Deep Learning and Natural Language Processing](https://github.com/asjad99/NLP_GYM)
-4.  [Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-6.  [ML Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
-
-
+- [The Hitchhiker’s Guide to Math(for CS AND AI)] 
+- [The Hitchhiker’s Guide to Practical Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- [The Hitchhiker’s Guide to Data Science](https://asjad99.github.io/datascience-GYM/) 
+- [The Hitchhiker’s Guide to Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
+- [The Hitchhiker’s Guide to Data-Intesive Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
 
 -------
+
 
 ### Side Projects 
 
