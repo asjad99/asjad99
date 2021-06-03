@@ -63,11 +63,11 @@ and so on.
 I like the idea of having [a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. 
 
 
-- [The Hitchhiker’s Guide to Math(for CS AND AI)] 
-- [The Hitchhiker’s Guide to Practical Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-- [The Hitchhiker’s Guide to Data Science](https://asjad99.github.io/datascience-GYM/) 
-- [The Hitchhiker’s Guide to Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-- [The Hitchhiker’s Guide to Data-Intesive Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
+- [My Notes on Math(for CS AND AI)] 
+- [Hitchhiker’s Guide to Practical Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- [Hitchhiker’s Guide to Data Science](https://asjad99.github.io/datascience-GYM/) 
+- [Hitchhiker’s Guide to Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
+- [Hitchhiker’s Guide to Data-Intesive Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
 
 -------
 
