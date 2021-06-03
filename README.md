@@ -86,6 +86,17 @@ Some of the other computer vision / Image Processing side-projects/course projec
 ##### IOS APPS: :iphone: 
   [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
 
+
+
+#### Programming Paradigms: 
+
+I made some short programms to understand various [programming paradigms](https://github.com/asjad99/programming-paradigms-): 
+- [Function Programming in Lisp](https://github.com/asjad99/programming-paradigms-/blob/main/practice_programs.lisp) 
+- [Logic programming in Prolog] ()
+- [System Programming in C and rust]
+- [Verilog/HDL/Assembly]()
+
+
 -----------
 
 
