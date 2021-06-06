@@ -43,7 +43,6 @@ Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods 
 
 Language understanding remains an ongoing challenge, and Search is not a solved problem. I have been involved in various academic and industry projects related to information retreival/knowledge discovery. I'm interested in exploring applications of  machine learning to understand language, particularly problems like [Few-Shot Text Classification](), [Summarization](), [Automated Question Answering]() and [Transfer Learning](). 
 
-- [Elastic Search]()  - Scalable keywrod Search using Elasticsearch
 - [Latent Semantic Indexing]() - Scalable Semantic Search using Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Extract Know-how from text using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
 - [Reading Comprehension] - Biomedical Question Answering using Transformers 
@@ -67,7 +66,7 @@ I like the idea of having [a learning road map](https://i.am.ai/roadmap/#machine
 - [Hitchhiker’s Guide to Practical Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [Hitchhiker’s Guide to Data Science](https://asjad99.github.io/datascience-GYM/) 
 - [Hitchhiker’s Guide to Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-- [Hitchhiker’s Guide to Data-Intesive Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
+- [Hitchhiker’s Guide to Data-Intensive Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
 
 -------
 
@@ -92,8 +91,8 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 I made some short programms to understand various [programming paradigms](https://github.com/asjad99/programming-paradigms-): 
 - [Function Programming in Lisp](https://github.com/asjad99/programming-paradigms-/blob/main/practice_programs.lisp) 
-- [Logic programming in Prolog] ()
-- [System Programming in C and rust]
+- [Logic programming in Prolog]()
+- [System Programming in C and rust]()
 - [Verilog/HDL/Assembly]()
 
 
