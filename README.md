@@ -2,7 +2,7 @@
 
 ####  Hi there 👋
 
- I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong :classical_building:. My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. I have a passion for building intelligent systems(data products) and using them to solve real world problems. I write about my experiences at https://www.asjadk.io. I enjoy coding in Python and am a open-source enthusiast. Below i have shared some of the my recent Research Prototypes (Proof-of-Concept), course projects and side projects done in the past. 
+I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong :classical_building:. My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. I have a passion for building intelligent systems(data products) and using them to solve real world problems. I write about my experiences at https://www.asjadk.io. I enjoy coding in Python and am a open-source enthusiast. Below i have shared some of the my recent Research Prototypes (Proof-of-Concept), course projects and side projects done in the past. 
 
 
 <a href="">
@@ -16,18 +16,18 @@
 
 ####  Research Projects  🔭 :electron:	
 
-The field of Artifical intelligence and Machine Learning is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), [Meta-Learning
-]() and Sample Efficient Learning. Progress in solving these problems, can have a major impact impact on domains like industrial automation, healthcare and Education. 
+I'm intereted in studying intelligent Algorithms enabled by constraints exposed by representations that support models targeted at thinking, perception and action.  My recent focus has largely been on Machine Learning, which is is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), Meta-Learning
+ and Sample Efficient Learning. Progress in solving these problems, can have a major impact impact on domains like industrial automation, healthcare and Education. 
 
 
 ##### Decision Support Systems: 
 
 ###### Healthcare 
 
-Digitization of healthcare data along algorithmic breakthroughts in AI will have a major impact on healthcare delivery in coming years. I'm particularly interested in application of AI to assist clinicians during partient treatment. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support people. 
+Digitization of healthcare data along algorithmic breakthroughts in AI will have a major impact on healthcare delivery in coming years. I'm particularly interested in application of AI to assist clinicians during partient treatment in a privacy preserving way. While scientific knowledge can help guide interventions, there remains a key need to quickly cut through the space of decision policies to find effective strategies to support patients during the care process. 
  
-- In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) we investigate the problem of developing a Clinical Decision Support System for Sepsis Management using Deep Reinforcement Learning. In our implementation we try to answer the following question: Given a particular patient’s characteristics and physiological information at each time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.g patient mortality)?   [[Paper]()] . 
-- Medical Data is Often Distribtuted and privacy concerns prevent us from building a central data-warehouse. Using Mulit-party Secure sum we can extract process models from distributed healthcare process logs. An idea we explore in this [[paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)]. Similary we can build distributed models using techniques like fedeerated average. See the [[Paper]()] for more details. 
+- In  [MIMIC-RL](https://github.com/asjad99/MIMIC_RL_COACH) I investigate the problem of developing a Clinical Decision Support System for Sepsis Management using Deep Reinforcement Learning. In our implementation we try to answer the following question: Given a particular patient’s characteristics and physiological information at each time step as input, can our proposed framework learn an optimal treatment policy that can prescribe the right intervention(e.g use of ventilator) to the patient each stage of the treatment process, in order to improve the final outcome(e.g patient mortality)?   [[Paper]()] . 
+- Medical Data is often geographically dispersed distribtuted and privacy concerns can prevent us from building a central data-warehouse. Using Techniques like fedderated learning and differential privacy we can extract process models from distributed healthcare process logs. We explore the mulit [[paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)]. Similary we explore techniques like federated averaging. See the [[Paper]()] for more details. 
 
 ###### Process Analytics 
 AI plays a key role in operational and strategic Business decision making. Take a look at the [Survey]() for a broad overview of AI's impact on supporting and improving business processes. I have been involved in the following projects for my PhD thesis:  
@@ -61,8 +61,7 @@ and so on.
 
 I like the idea of having [a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. 
 
-
-- [My Notes on Math(for CS AND AI)] 
+- [My Notes on Math(for CS AND AI)]()
 - [Hitchhiker’s Guide to Practical Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [Hitchhiker’s Guide to Data Science](https://asjad99.github.io/datascience-GYM/) 
 - [Hitchhiker’s Guide to Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
