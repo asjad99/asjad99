@@ -38,7 +38,9 @@ AI plays a key role in operational and strategic Business decision making. Take 
 
 
 
-###### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
+##### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
+
+> "80% of all information created today is unstructured (free text with little structural explanation). In 2017 alone the information created was expected to be greater than the previous 5000 years combined. In addition to sheer volume, the rate of information creation is accelerating rapidly, 10x per year by 2025, which is also the year each human is expected to interact with connected devices nearly 5000 times each day." 
 
 Language understanding remains an ongoing challenge, and Search is not a solved problem. I have been involved in various academic and industry projects related to information retreival/knowledge discovery. I'm interested in exploring applications of  machine learning to understand language, particularly problems like [Few-Shot Text Classification](), [Summarization](), [Automated Question Answering]() and [Transfer Learning](). 
 
@@ -49,9 +51,9 @@ Language understanding remains an ongoing challenge, and Search is not a solved 
 <!---
 <> - [Code Search]() - 
 - [Coversational AI]() - Explore LaMDA 
+Learning to Rank: 
 -->
-
-###### Data Mining 
+##### Data Mining 
 
 Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
 and so on. 
