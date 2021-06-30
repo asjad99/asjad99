@@ -42,7 +42,7 @@ AI plays a key role in operational and strategic Business decision making. Take 
 
 > "80% of all information created today is unstructured (free text with little structural explanation). In 2017 alone the information created was expected to be greater than the previous 5000 years combined. In addition to sheer volume, the rate of information creation is accelerating rapidly, 10x per year by 2025, which is also the year each human is expected to interact with connected devices nearly 5000 times each day." 
 
-Language understanding remains an ongoing challenge, and Search is not a solved problem. I have been involved in various academic and industry projects related to information retreival/knowledge discovery. I'm interested in exploring applications of  machine learning to understand language, particularly problems like [Few-Shot Text Classification](), [Summarization](), [Automated Question Answering]() and [Transfer Learning](). 
+Language understanding remains an ongoing challenge, and Search is not a solved problem. I have been involved in various academic and industry projects related to information retreival/knowledge discovery. I'm interested in exploring applications of  machine learning to understand language, particularly problems like [Few-Shot Text Classification], [Summarization], [Automated Question Answering] and [Transfer Learning]. 
 
 - [Latent Semantic Indexing]() - Scalable Semantic Search using Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
 - [know-how-mining](https://github.com/asjad99/know-how-mining) - Extract Know-how from text using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
@@ -65,7 +65,7 @@ and so on.
 
 I like the idea of having [a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. 
 
-- [My Notes on Math(for CS AND AI)]()
+- [My Notes on Math(for CS AND AI)](https://www.dropbox.com/s/bqazagl3kolazfk/A_toolkit_for_building_data_products.pdf?dl=0)
 - [Hitchhiker’s Guide to Practical Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [Hitchhiker’s Guide to Data Science](https://asjad99.github.io/datascience-GYM/) 
 - [Hitchhiker’s Guide to Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
@@ -82,7 +82,7 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 #### Web/Mobile :turtle:
 
-- [Elastic Search]() , [twitter-graph]() , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), 
+- [Elastic Search] , [twitter-graph] , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), 
  Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
 
 ##### IOS APPS: :iphone: 
@@ -95,8 +95,8 @@ Some of the other computer vision / Image Processing side-projects/course projec
 I made some short programms to understand various [programming paradigms](https://github.com/asjad99/programming-paradigms-): 
 - [Function Programming in Lisp](https://github.com/asjad99/programming-paradigms-/blob/main/practice_programs.lisp) 
 - [Logic programming in Prolog]()
-- [System Programming in C and rust]()
-- [Verilog/HDL/Assembly]()
+- [System Programming in C and rust]
+- [Verilog/HDL/Assembly]
 
 
 -----------
