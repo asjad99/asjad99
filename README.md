@@ -98,6 +98,7 @@ I made some short programms to understand various [programming paradigms](https:
 - [System Programming in C and rust]
 - [Verilog/HDL/Assembly]
 
+will be adding code for the missing link soon. Stay tuned :) 
 
 -----------
 
