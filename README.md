@@ -58,6 +58,7 @@ Language understanding remains an ongoing challenge, and Search is not a solved 
 - [Coversational AI]() - Explore LaMDA 
 Learning to Rank: 
 -->
+
 ##### Data Mining 
 
 Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
@@ -105,9 +106,19 @@ I made some short programms to understand various [programming paradigms](https:
 
 will be adding code for the missing link soon. Stay tuned :) 
 
+“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
+
+
 -----------
 
+<!---
+ Systems Programming Rust (OS + databases)
+You should be comfortable with arrays, pointers, references, classes, methods, dynamic memory allocation, recursion, linked lists, binary search trees, hashing, iterators, and function pointers.
 
+Databases, 
+http://www.gotw.ca/publications/concurrency-ddj.htm
+https://news.ycombinator.com/item?id=27647079
+-->
 
 
 <!-- Moonshots: 
@@ -127,8 +138,7 @@ https://www.youtube.com/watch?v=X-iSQQgOd1A
 https://paperswithcode.com/sota
 also see data products and newsletters: 
 <!-- 
-- Systems Programming Rust (OS + databases)
-You should be comfortable with arrays, pointers, references, classes, methods, dynamic memory allocation, recursion, linked lists, binary search trees, hashing, iterators, and function pointers.
+-
  - Computational Photography
  - https://rolisz.ro/projects/
  - 
@@ -139,14 +149,12 @@ https://paulstamatiou.com/photos/new-zealand/mount-cook-to-christchurch/
 gear: https://paulstamatiou.com/stuff-i-use/
 
 
-“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
 
 "A person often meets his destiny on the road he took to avoid it."
 
-[Naval and Kapil Gupta on Hardwork](https://youtu.be/q6k_ufqaiBg)
+--->
 
 
 
-----------------------------------------------------------------------------------------------------------------
 
 
