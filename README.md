@@ -88,7 +88,7 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 #### Web/Mobile :turtle:
 
-- [Elastic Search](https://github.com/asjad99/elastic_search) , [twitter-graph-fetch] , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), [Mohavi](https://github.com/asjad99/Mohavi)
+- [Elastic Search](https://github.com/asjad99/elastic_search) , [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch) , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), [Mohavi](https://github.com/asjad99/Mohavi)
  
 
 
