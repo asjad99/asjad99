@@ -88,8 +88,9 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 #### Web/Mobile :turtle:
 
-- [Elastic Search] , [twitter-graph] , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), 
- Chrome Extension - is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people. 
+- [Elastic Search](https://github.com/asjad99/elastic_search) , [twitter-graph-fetch] , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), [Mohavi](https://github.com/asjad99/Mohavi)
+ 
+
 
 ##### IOS APPS: :iphone: 
   [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
@@ -99,12 +100,13 @@ Some of the other computer vision / Image Processing side-projects/course projec
 #### Programming Paradigms: 
 
 I made some short programms to understand various [programming paradigms](https://github.com/asjad99/programming-paradigms-): 
-- [Function Programming in Lisp](https://github.com/asjad99/programming-paradigms-/blob/main/practice_programs.lisp) 
-- [Logic programming in Prolog]()
-- [System Programming in C and rust]
-- [Verilog/HDL/Assembly]
 
-will be adding code for the missing link soon. Stay tuned :) 
+- [Function Programming in Lisp](https://github.com/asjad99/programming-paradigms-/blob/main/practice_programs.lisp) 
+- [Logic programming in Prolog](https://github.com/asjad99/Prolog)
+- [System Programming in C and rust]()
+- [Verilog/HDL/Assembly]()
+
+will be adding code for the missing links soon. Stay tuned :) 
 
 “If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
 
