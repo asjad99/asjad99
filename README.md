@@ -13,13 +13,13 @@ I'm a final year computer science Ph.D. student :mortar_board: at the University
 </a>
 
 
-
+<!---
 ####  Research Projects  🔭 :electron:	
 
 I'm intereted in studying and developing intelligent algorithms enabled by constraints(exposed by representations) that support models targeted at thinking, perception and action.  My recent focus has largely been on Applied Machine Learning, which is is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), Meta-Learning
  and Sample Efficient Learning. Progress in solving these problems, can have a major impact on domains like industrial automation, healthcare and Education. 
 
-<!---
+
 ##### Decision Support Systems: 
 
 ###### Healthcare 
@@ -41,6 +41,18 @@ AI plays a key role in operational and strategic Business decision making. I hav
  - At operational level AI can provide recommendations to support business process executions. Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequential data problems. In  [DeepProcess:](https://github.com/asjad99/DeepProcess) Project we use Memory Augmented Neural Networks  for Predictive Process Monitoring. see  [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog_post](www.asjadk.io/deepprocess/)]
 
   - At Strategic level AI can help bussiness come up with robust plans. We explore this in the Alpha-GS project: [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT) [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
+
+#### Open Source Learning:   :octopus:
+
+I like the idea of having [a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. 
+
+- [My Notes on Math(for CS AND AI)](https://www.dropbox.com/s/bqazagl3kolazfk/A_toolkit_for_building_data_products.pdf?dl=0)
+- [Hitchhiker’s Guide to Practical Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- [Hitchhiker’s Guide to Data Science](https://asjad99.github.io/datascience-GYM/) 
+- [Hitchhiker’s Guide to Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
+- [Hitchhiker’s Guide to Data-Intensive Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
+
+
 
 --> 
 ##### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
@@ -66,16 +78,6 @@ and so on.
   -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Building Recommender Systems using sequential Data Modeling. See [[Blog Post](https://www.asjadk.io/music/)]
   -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post](https://www.asjadk.io/revealing-taxi-drivers-mobility-intelligence-through-his-trace/)
 
-
-#### Open Source Learning:   :octopus:
-
-I like the idea of having [a learning road map](https://i.am.ai/roadmap/#machine-learning-roadmap) and documenting your learning journey. 
-
-- [My Notes on Math(for CS AND AI)](https://www.dropbox.com/s/bqazagl3kolazfk/A_toolkit_for_building_data_products.pdf?dl=0)
-- [Hitchhiker’s Guide to Practical Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-- [Hitchhiker’s Guide to Data Science](https://asjad99.github.io/datascience-GYM/) 
-- [Hitchhiker’s Guide to Deep Reinforcement Learning](https://github.com/asjad99/Deep-Reinforcement-Learning)
-- [Hitchhiker’s Guide to Data-Intensive Engineering](https://github.com/asjad99/data-engineering-ml-ops) 
 
 -------
 
