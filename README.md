@@ -19,7 +19,7 @@ I'm a final year computer science Ph.D. student :mortar_board: at the University
 I'm intereted in studying and developing intelligent algorithms enabled by constraints(exposed by representations) that support models targeted at thinking, perception and action.  My recent focus has largely been on Applied Machine Learning, which is is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), Meta-Learning
  and Sample Efficient Learning. Progress in solving these problems, can have a major impact on domains like industrial automation, healthcare and Education. 
 
-
+<!---
 ##### Decision Support Systems: 
 
 ###### Healthcare 
@@ -31,9 +31,9 @@ Digitization of healthcare data along algorithmic breakthroughts in AI will have
 - Medical Data is often geographically dispersed distribtuted and privacy concerns can prevent us from building a central data-warehouse. Using Techniques like fedderated learning and differential privacy we can extract process models from distributed healthcare process logs. We explore the multi-party compute with the the framework of federated learning. see paper for more details. [[paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)]. 
 
 ###### Process Analytics 
-<!---
+
 Take a look at the [Survey]() for a broad overview of AI's impact on supporting and improving business processes.
--->
+
 
 
 AI plays a key role in operational and strategic Business decision making. I have been involved in the following projects for my PhD thesis:  
@@ -42,7 +42,7 @@ AI plays a key role in operational and strategic Business decision making. I hav
 
   - At Strategic level AI can help bussiness come up with robust plans. We explore this in the Alpha-GS project: [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT) [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
 
-
+--> 
 ##### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
 
 > "80% of all information created today is unstructured (free text with little structural explanation). In 2017 alone the information created was expected to be greater than the previous 5000 years combined. In addition to sheer volume, the rate of information creation is accelerating rapidly, 10x per year by 2025, which is also the year each human is expected to interact with connected devices nearly 5000 times each day." 
