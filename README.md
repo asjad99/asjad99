@@ -53,25 +53,11 @@ I like the idea of having [a learning road map](https://i.am.ai/roadmap/#machine
 
 
 --> 
-##### NLP and Knowledge Discovery :mag_right:  :file_cabinet:
-
-> "80% of all information created today is unstructured (free text with little structural explanation). In 2017 alone the information created was expected to be greater than the previous 5000 years combined. In addition to sheer volume, the rate of information creation is accelerating rapidly, 10x per year by 2025, which is also the year each human is expected to interact with connected devices nearly 5000 times each day." 
-
-Language understanding remains an ongoing challenge, and Search is not a solved problem. I have been involved in various academic and industry projects related to information retreival/knowledge discovery. I'm interested in exploring applications of  machine learning to understand language, particularly problems like [Few-Shot Text Classification], [Summarization], [Automated Question Answering] and [Transfer Learning]. 
-
-- [Latent Semantic Indexing]() - Scalable Semantic Search using Topic Modeling in Apache Spark  [[Blog Post](https://www.asjadk.io/semantic_search/)] 
-- [know-how-mining](https://github.com/asjad99/know-how-mining) - Extract Know-how from text using word2vec  [ [Paper](https://link.springer.com/chapter/10.1007/978-3-319-69904-2_6)]
-- [Reading Comprehension] - Biomedical Question Answering using Transformers 
-
-<!---
-<> - [Code Search]() - 
-- [Coversational AI]() - Explore LaMDA 
-Learning to Rank: 
--->
-
-
 
 ### Side Projects 
+
+
+*“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”*
 
 #### Image Processing/Computer Graphics:yarn:
 
@@ -80,7 +66,6 @@ Some of the other computer vision / Image Processing side-projects/course projec
 #### Web/Mobile :turtle:
 
 - [Elastic Search](https://github.com/asjad99/elastic_search) , [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch) , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), [Mohavi](https://github.com/asjad99/Mohavi)
- 
 
 ##### Data Mining 
 
@@ -89,11 +74,8 @@ and so on.
   -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Building Recommender Systems using sequential Data Modeling. See [[Blog Post](https://www.asjadk.io/music/)]
   -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post](https://www.asjadk.io/revealing-taxi-drivers-mobility-intelligence-through-his-trace/)
 
-
 ##### IOS APPS: :iphone: 
   [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
-
-
 
 #### Programming Paradigms: 
 
@@ -106,7 +88,6 @@ I made some short programms to understand various [programming paradigms](https:
 
 will be adding code for the missing links soon. Stay tuned :) 
 
-“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
 
 
 -----------
