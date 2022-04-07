@@ -34,8 +34,6 @@ Digitization of healthcare data along algorithmic breakthroughts in AI will have
 
 Take a look at the [Survey]() for a broad overview of AI's impact on supporting and improving business processes.
 
-
-
 AI plays a key role in operational and strategic Business decision making. I have been involved in the following projects for my PhD thesis:  
 
  - At operational level AI can provide recommendations to support business process executions. Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequential data problems. In  [DeepProcess:](https://github.com/asjad99/DeepProcess) Project we use Memory Augmented Neural Networks  for Predictive Process Monitoring. see  [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog_post](www.asjadk.io/deepprocess/)]
@@ -71,15 +69,6 @@ Language understanding remains an ongoing challenge, and Search is not a solved 
 Learning to Rank: 
 -->
 
-##### Data Mining 
-
-Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
-and so on. 
-  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Building Recommender Systems using sequential Data Modeling. See [[Blog Post](https://www.asjadk.io/music/)]
-  -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post](https://www.asjadk.io/revealing-taxi-drivers-mobility-intelligence-through-his-trace/)
-
-
--------
 
 
 ### Side Projects 
@@ -92,6 +81,13 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 - [Elastic Search](https://github.com/asjad99/elastic_search) , [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch) , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), [Mohavi](https://github.com/asjad99/Mohavi)
  
+
+##### Data Mining 
+
+Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
+and so on. 
+  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Building Recommender Systems using sequential Data Modeling. See [[Blog Post](https://www.asjadk.io/music/)]
+  -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post](https://www.asjadk.io/revealing-taxi-drivers-mobility-intelligence-through-his-trace/)
 
 
 ##### IOS APPS: :iphone: 
