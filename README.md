@@ -73,6 +73,8 @@ Data Mining methods provide mechanisms for finding meaningful insights, patterns
 and so on. 
   -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for modeling sequential modeling problems using LSTM networks. See [[Blog Post](https://www.asjadk.io/music/)]
   -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post](https://www.asjadk.io/revealing-taxi-drivers-mobility-intelligence-through-his-trace/)
+  - [rosetta_stone](https://github.com/asjad99/rosetta_stone) A Framework for decision making in adversarial settings to acheive strategic resilience
+
 
 ##### IOS APPS: :iphone: 
   [IntroMe](https://github.com/asjad99/IntroMe),  [CoinMarketCap](https://github.com/asjad99/CoinMarketCap),  [insta-print](https://github.com/asjad99/InstaPrint), [Raven](https://github.com/asjad99/Raven) 
