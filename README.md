@@ -67,11 +67,11 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 - [Elastic Search](https://github.com/asjad99/elastic_search) , [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch) , [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py), [Mohavi](https://github.com/asjad99/Mohavi)
 
-##### Data Mining 
+##### Data Science 
 
 Data Mining methods provide mechanisms for finding meaningful insights, patterns, trends and exceptions for decision makers.  Data Mining methods continue to be extract process models, build recommender systems 
 and so on. 
-  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for Building Recommender Systems using sequential Data Modeling. See [[Blog Post](https://www.asjadk.io/music/)]
+  -  [Yanga](https://github.com/asjad99/Yanga)  - A framework for modeling sequential modeling problems using LSTM networks. See [[Blog Post](https://www.asjadk.io/music/)]
   -  [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post](https://www.asjadk.io/revealing-taxi-drivers-mobility-intelligence-through-his-trace/)
 
 ##### IOS APPS: :iphone: 
@@ -83,8 +83,7 @@ I made some short programms to understand various [programming paradigms](https:
 
 - [Function Programming in Lisp](https://github.com/asjad99/programming-paradigms-/blob/main/practice_programs.lisp) 
 - [Logic programming in Prolog](https://github.com/asjad99/Prolog)
-- [System Programming in C and rust]()
-- [Verilog/HDL/Assembly]()
+
 
 will be adding code for the missing links soon. Stay tuned :) 
 
