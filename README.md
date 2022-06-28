@@ -14,7 +14,7 @@ I'm a final year computer science Ph.D. student :mortar_board: at the University
 
 ### Research
 
-For research contributions please see:  https://github.com/DaVinci-lab
+For research contributions and projects please see:  https://github.com/DaVinci-lab
 
 <!---
 ####  Research Projects  🔭 :electron:	
