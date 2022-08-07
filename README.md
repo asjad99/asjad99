@@ -5,6 +5,12 @@
 I'm a final year computer science Ph.D. student :mortar_board: at the University of Wollongong :classical_building:. My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. I have a passion for building intelligent systems(data products) and using them to solve real world problems. I write about my experiences at blog.asjadk.com . I enjoy coding in Python and am a open-source enthusiast. Below i have shared some of the my recent Research Prototypes (Proof-of-Concept), course projects and side projects done in the past. 
 
 
+
+### Research Projects and Prototypes 
+
+For research contributions and projects please see:  https://github.com/DaVinci-lab
+
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
 </a>
@@ -12,9 +18,7 @@ I'm a final year computer science Ph.D. student :mortar_board: at the University
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green" />
 </a>
 
-### Research Projects and Prototypes 
 
-For research contributions and projects please see:  https://github.com/DaVinci-lab
 
 <!---
 ####  Research Projects  🔭 :electron:	
