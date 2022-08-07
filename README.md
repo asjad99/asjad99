@@ -12,7 +12,7 @@ I'm a final year computer science Ph.D. student :mortar_board: at the University
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green" />
 </a>
 
-### Research
+### Research Projects and Prototypes 
 
 For research contributions and projects please see:  https://github.com/DaVinci-lab
 
