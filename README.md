@@ -15,7 +15,7 @@ Please see:  https://github.com/DaVinci-lab
 ### Open Source Education
 
 
-Please see: 
+Please see: https://github.com/DS-AI-EDU
 
 
 
