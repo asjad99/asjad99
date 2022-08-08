@@ -21,6 +21,7 @@ My recent work centres around exploring applications of machine learning for pro
 
 
 <!---
+
 ####  Research Projects  🔭 :electron:	
 
 I'm intereted in studying and developing intelligent algorithms enabled by constraints(exposed by representations) that support models targeted at thinking, perception and action.  My recent focus has largely been on Applied Machine Learning, which is is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), Meta-Learning
@@ -79,7 +80,8 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 #### Web/Mobile :turtle:
 
-- , [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch) 
+- [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - -  For Builing useful datasets using twitter API 
+
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)-
 [Mohavi](https://github.com/asjad99/Mohavi)
 
