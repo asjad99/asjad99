@@ -8,7 +8,17 @@ My recent work centres around exploring applications of machine learning for pro
 
 ### AI Projects 
 
- please see:  https://github.com/DaVinci-lab
+Please see:  https://github.com/DaVinci-lab
+
+
+
+### Open Source Education
+
+
+Please see: 
+
+
+
 
 
 <a href="">
