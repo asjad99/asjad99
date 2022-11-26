@@ -14,12 +14,7 @@ Please see:  https://github.com/DaVinci-lab
 
 
 
-### Open Source Education
-
-
-Please see: https://github.com/DS-AI-EDU
-
-
+### Open Source DS/ML Notebooks 
 
 
 
