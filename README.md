@@ -14,7 +14,7 @@ I'm intereted in studying and developing intelligent algorithms enabled by const
 See https://blog.asjadk.com/my-work/
 
 
-#### DS/ML Notebooks 
+#### DS/ML Notebooks  (work in progress) 
 
 - https://github.com/asjad99/Machine-Learning-GYM
 - https://github.com/asjad99/datascience-GYM
