@@ -9,26 +9,35 @@ My recent work centres around exploring applications of machine learning for pro
 
 I'm intereted in studying and developing intelligent algorithms enabled by constraints(exposed by representations) that support models targeted at thinking, perception and action.  My recent focus has largely been on Applied Machine Learning, which is is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), Meta-Learning and Sample Efficient Learning. Progress in solving these problems, can have a major impact on domains like industrial automation, healthcare and Education. 
 
+#### Projects
 
-Please see:  https://github.com/DaVinci-lab
-
-
-
-### Open Source DS/ML Notebooks 
+See https://blog.asjadk.com/my-work/
 
 
+#### Open Source DS/ML Notebooks 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green" />
-</a>
+Add: 
 
 
+#### Notes 
+
+Graph Algorithms: https://hitchhikerguide.gitbook.io/graphs/
+Programming Paradigms: https://hitchhikerguide.gitbook.io/programming-paradigms/
+Hitchhiker's Guide to Process Analytics: https://hitchhikerguide.gitbook.io/process-analytics/
+Behavior modeling with Machine Learning
+Guide to fine-tuning Numpy Performance for Gensim: https://hitchhikerguide.gitbook.io/gensim_performance/
+Hitchhiker's Guide to Data Science: https://hitchhikerguide.gitbook.io/data-scoem/
+A Technologist's Guide to Startups: https://www.dropbox.com/s/yc8r3k8ozh3rn5d/5__A_technologist_s_Guide_to_startups_and_Business.pdf?dl=0
+Probabilistic Programming
+Algorithms for Data Products
+Big ideas in Computer Science
+
+#### Datasets:
+
+Kaggle link: https://www.kaggle.com/asjad99
 
 
-*“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”*
+
 
 
 
@@ -68,6 +77,16 @@ UseScope
 
 
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green" />
+</a>
+
+
+
+*“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”*
 
 -----------
 
