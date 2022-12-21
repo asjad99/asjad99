@@ -21,16 +21,16 @@ See https://blog.asjadk.com/my-work/
 
 #### Notes 
 
-Graph Algorithms: https://hitchhikerguide.gitbook.io/graphs/
-Programming Paradigms: https://hitchhikerguide.gitbook.io/programming-paradigms/
-Hitchhiker's Guide to Process Analytics: https://hitchhikerguide.gitbook.io/process-analytics/
-Behavior modeling with Machine Learning
-Guide to fine-tuning Numpy Performance for Gensim: https://hitchhikerguide.gitbook.io/gensim_performance/
-Hitchhiker's Guide to Data Science: https://hitchhikerguide.gitbook.io/data-scoem/
-A Technologist's Guide to Startups: https://www.dropbox.com/s/yc8r3k8ozh3rn5d/5__A_technologist_s_Guide_to_startups_and_Business.pdf?dl=0
-Probabilistic Programming
-Algorithms for Data Products
-Big ideas in Computer Science
+- Graph Algorithms: https://hitchhikerguide.gitbook.io/graphs/
+- Programming Paradigms: https://hitchhikerguide.gitbook.io/programming-paradigms/
+- Hitchhiker's Guide to Process Analytics: https://hitchhikerguide.gitbook.io/process-analytics/
+- Behavior modeling with Machine Learning
+- Guide to fine-tuning Numpy Performance for Gensim: https://hitchhikerguide.gitbook.io/gensim_performance/
+- Hitchhiker's Guide to Data Science: https://hitchhikerguide.gitbook.io/data-scoem/
+- A Technologist's Guide to Startups: https://www.dropbox.com/s/yc8r3k8ozh3rn5d/5__A_technologist_s_Guide_to_startups_and_Business.pdf?dl=0
+- Probabilistic Programming
+- Algorithms for Data Products
+- Big ideas in Computer Science: https://hitchhikerguide.gitbook.io/big_ideas_in_cs/
 
 #### Datasets:
 
