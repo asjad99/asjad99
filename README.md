@@ -19,7 +19,7 @@ See https://blog.asjadk.com/my-work/
 - https://github.com/asjad99/Machine-Learning-GYM
 - https://github.com/asjad99/datascience-GYM
 
-#### Notes 
+#### Notes (work in progress) 
 
 - Graph Algorithms: https://hitchhikerguide.gitbook.io/graphs/
 - Programming Paradigms: https://hitchhikerguide.gitbook.io/programming-paradigms/
