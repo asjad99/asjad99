@@ -58,7 +58,7 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 #### Web/Mobile :turtle:
 
-- [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - -  For Builing useful datasets using twitter API 
+- [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - For Builing useful datasets using twitter API 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)-
 [Mohavi](https://github.com/asjad99/Mohavi)
 - [Elastic Search](https://github.com/asjad99/elastic_search) - (Python, elastic search, memcache) name saerch for blockchain
@@ -70,10 +70,11 @@ UseScope
 
 
 ##### IOS APPS: :iphone: 
- - [IntroMe](https://github.com/asjad99/IntroMe) - Automate the introduction process 
- [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) - Keep an Eye on Crypto Market Prices 
- - [insta-print](https://github.com/asjad99/InstaPrint) - Print your instagram Images 
- - [Raven](https://github.com/asjad99/Raven) - An instant messenger 
+
+- [IntroMe](https://github.com/asjad99/IntroMe) - Automate the introduction process 
+- [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) - Keep an Eye on Crypto Market Prices 
+- [insta-print](https://github.com/asjad99/InstaPrint) - Print your instagram Images 
+- [Raven](https://github.com/asjad99/Raven) - An instant messenger 
 
 
 
