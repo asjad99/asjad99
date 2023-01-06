@@ -43,7 +43,7 @@ Kaggle link: https://www.kaggle.com/asjad99
 
 ### Software I'hv Written  
 
-Mostly dereprecated, i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past. 
+Mostly deprecated, i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past. 
 
 #### Image Processing/Computer Graphics:yarn:
 
