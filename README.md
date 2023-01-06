@@ -2,7 +2,7 @@
 
 ####  Hi there 👋
 
-My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. I have a passion for building intelligent systems (data products) and using them to solve real world problems. I write about my experiences at blog.asjadk.com. I enjoy coding in Python and am an open-source enthusiast. Below i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past. 
+My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. I have a passion for building intelligent systems (data products) and using them to solve real world problems. I write about my experiences at blog.asjadk.com. I enjoy coding in Python and am an open-source enthusiast. 
 
 
 ### AI Projects   🔭 :electron:	
@@ -41,7 +41,9 @@ Kaggle link: https://www.kaggle.com/asjad99
 
 
 
-### Software I'hv Written  (deprecated) 
+### Software I'hv Written  
+
+Mostly dereprecated, i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past. 
 
 #### Image Processing/Computer Graphics:yarn:
 
