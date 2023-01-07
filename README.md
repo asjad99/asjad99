@@ -22,7 +22,7 @@ See https://blog.asjadk.com/my-work/
 
 
 
-#### Notes (work in progress) 
+#### Notes on Data Centric Computing (work in progress) 
 
 - Graph Algorithms: https://hitchhikerguide.gitbook.io/graphs/
 - Programming Paradigms: https://hitchhikerguide.gitbook.io/programming-paradigms/
