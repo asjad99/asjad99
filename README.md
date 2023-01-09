@@ -34,7 +34,7 @@ See https://blog.asjadk.com/my-work/
 [Kaggle:](https://www.kaggle.com/asjad99)
 
 
-### Software I'hv Written  
+### Software Projects (deprecated) 
 
 Mostly deprecated, i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past. 
 
