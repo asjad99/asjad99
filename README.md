@@ -13,10 +13,9 @@ My recent work centres around exploring applications of machine learning for pro
 - [DeepProcess: Supporting business process execution using a MANN-based recommender system](https://blog.asjadk.com/deepprocess/)
 
 
-
 #### Papers: 
 
-[google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | [dblp](https://dblp.org/pid/207/8877.html) 
+[Google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | [dblp Profile](https://dblp.org/pid/207/8877.html) 
 
 
 #### Datasets:
