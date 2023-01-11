@@ -16,16 +16,15 @@ My recent work centres around exploring applications of machine learning for pro
 
 #### Papers: 
 
-[google scholar profile]() | [DLPB]() 
+[google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | [dblp](https://dblp.org/pid/207/8877.html) 
 
 
 #### Datasets:
 
-[Kaggle:](https://www.kaggle.com/asjad99)
+[Few Datasets we built](https://www.kaggle.com/asjad99)
 
 
 #### DS/ML Open Source Practice Notebooks  (work in progress) 
-
 
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [Data Science](https://github.com/asjad99/datascience-GYM)
