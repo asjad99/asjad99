@@ -21,7 +21,7 @@ My recent work centres around exploring applications of machine learning and cen
 
 [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 
-[Software](https://github.com/asjad99/software_directory) | Software I have writte 
+[Software](https://github.com/asjad99/software_directory) | Software I have written 
 
 [Open Source Education](https://github.com/asjad99/knowledge_base) | Notes on Data Centric Computing (work in progress)  
 
