@@ -5,10 +5,18 @@
 My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. I have a passion for building intelligent systems (data products) and using them to solve real world problems. I write about my experiences at blog.asjadk.com. I enjoy coding in Python and am an open-source enthusiast. I'm intereted in studying and developing intelligent algorithms enabled by constraints, exposed by representations that support models targeted at thinking, perception and action.  My recent focus has largely been on applied reinforcement and machine Learning, which is full of [fascinating open problems](https://blog.asjadk.com/real-world-rl/) like [Generalization](https://blog.asjadk.com/generalization/), [intelligent exploration vs exploitation](https://blog.asjadk.com/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.blog.asjadk.com/counterfactual-policy-evaluation/), Meta-Learning and Sample Efficient Learning. Progress in solving these problems, can have a major impact on domains like industrial automation, healthcare and Education. 
 
 
-#### Selected AI/DS Projects  🔭 :electron:	
+#### Selected Projects  🔭 :electron:	
 
-See https://blog.asjadk.com/my-work/
+- [Enterprise Information Retrieval using semantic search](https://blog.asjadk.com/semantic_search/)
+- [Music Recommender System for multi-lingual Users](https://blog.asjadk.com/music/)
+- [DeepRL based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
+- [DeepProcess: Supporting business process execution using a MANN-based recommender system](https://blog.asjadk.com/deepprocess/)
 
+
+
+#### Papers: 
+
+[google scholar profile]() | [DLPB]() 
 
 #### Notes on Data Centric Computing (work in progress) 
 - [Guide to fine-tuning Numpy Performance for Gensim:](https://hitchhikerguide.gitbook.io/gensim_performance/)
