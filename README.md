@@ -25,7 +25,6 @@ My recent work centres around exploring applications of machine learning for pro
 #### DS/ML Open Source Practice Notebooks  (work in progress) 
 
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-- [Data Science](https://github.com/asjad99/datascience-GYM)
 
 
 ### Software Projects
@@ -75,6 +74,7 @@ UseScope
 - Algorithms for Data Products
 - [Big ideas in Computer Science:](https://hitchhikerguide.gitbook.io/big_ideas_in_cs/)
 - [Programming Paradigms:](https://hitchhikerguide.gitbook.io/programming-paradigms/)
+- [Data Science](https://github.com/asjad99/datascience-GYM)
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
