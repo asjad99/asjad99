@@ -31,7 +31,7 @@ My recent work centres around exploring applications of machine learning for pro
 - [Data Science](https://github.com/asjad99/datascience-GYM)
 
 
-### Software Projects (deprecated) 
+### Software Projects
 
 Mostly deprecated, i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past. 
 
