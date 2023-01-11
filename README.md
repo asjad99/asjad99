@@ -13,18 +13,14 @@ My recent work centres around exploring applications of machine learning for pro
 - [DeepProcess: Supporting business process execution using a MANN-based recommender system](https://blog.asjadk.com/deepprocess/)
 
 
-#### Papers: 
+#### MISC
 
 [Google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | [dblp Profile](https://dblp.org/pid/207/8877.html) 
 
-
-#### Datasets:
-
 [Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources we’ve built
 
-#### DS/ML Open Source Practice Notebooks  (work in progress) 
+[Machine Learning](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 
-- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 
 
 ### Software Projects
