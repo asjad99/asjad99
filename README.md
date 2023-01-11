@@ -20,8 +20,7 @@ My recent work centres around exploring applications of machine learning for pro
 
 #### Datasets:
 
-[Few Datasets we built](https://www.kaggle.com/asjad99)
-
+[Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources we’ve built
 
 #### DS/ML Open Source Practice Notebooks  (work in progress) 
 
