@@ -15,6 +15,7 @@ My recent work centres around exploring applications of machine learning and cen
 
 #### Misc.
 [Blog](https://blog.asjadk.com/main-content/) | Articles I've written 
+
 [Google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) , [dblp Profile](https://dblp.org/pid/207/8877.html) | Academic Papers
 
 [Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources we’ve built
