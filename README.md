@@ -19,17 +19,16 @@ My recent work centres around exploring applications of machine learning for pro
 [google scholar profile]() | [DLPB]() 
 
 
+#### Datasets:
+
+[Kaggle:](https://www.kaggle.com/asjad99)
+
 
 #### DS/ML Open Source Practice Notebooks  (work in progress) 
 
 
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [Data Science](https://github.com/asjad99/datascience-GYM)
-
-
-#### Datasets:
-
-[Kaggle:](https://www.kaggle.com/asjad99)
 
 
 ### Software Projects (deprecated) 
