@@ -23,7 +23,7 @@ My recent work centres around exploring applications of machine learning and cen
 
 [Software](https://github.com/asjad99/software_directory) | Software I have writte 
 
-[Open Source Education] | Notes on Data Centric Computing (work in progress)  
+[Open Source Education](https://github.com/asjad99/knowledge_base) | Notes on Data Centric Computing (work in progress)  
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
