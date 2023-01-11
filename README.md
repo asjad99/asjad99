@@ -23,11 +23,11 @@ My recent work centres around exploring applications of machine learning and cen
 
 
 
-### Software Projects
+#### Software Projects
 
 Mostly deprecated, i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past. 
 
-#### Image Processing/Computer Graphics:yarn:
+##### Image Processing/Computer Graphics:yarn:
 
 Some of the other computer vision / Image Processing side-projects/course projects I have done include: 
 
@@ -38,7 +38,7 @@ Some of the other computer vision / Image Processing side-projects/course projec
 - [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF) - Using Microsoft Kinect to Control Unity3D simulations
 
-#### Web/Mobile :turtle:
+##### Web/Mobile :turtle:
 
 - [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - For Builing useful datasets using twitter API 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)-
@@ -51,7 +51,7 @@ UseScope
 - Chrome Extension (JavaScript/LinkedIn API) UseScope is a social marketing tool. It leverages your linkedIn graph to find existing connections/friends in your graph, that can help introduce you to new people
 
 
-##### IOS APPS: :iphone: 
+###### IOS APPS: :iphone: 
 
 - [IntroMe](https://github.com/asjad99/IntroMe) - Automate the introduction process 
 - [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) - Keep an Eye on Crypto Market Prices 
