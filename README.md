@@ -5,17 +5,10 @@
 My recent work centres around exploring applications of machine learning for process analytics, expert decision support and Natural Language Understanding of domain specific text. I have a passion for building intelligent systems (data products) and using them to solve real world problems. I write about my experiences at blog.asjadk.com. I enjoy coding in Python and am an open-source enthusiast. I'm intereted in studying and developing intelligent algorithms enabled by constraints, exposed by representations that support models targeted at thinking, perception and action.  My recent focus has largely been on applied reinforcement and machine Learning, which is full of [fascinating open problems](https://blog.asjadk.com/real-world-rl/) like [Generalization](https://blog.asjadk.com/generalization/), [intelligent exploration vs exploitation](https://blog.asjadk.com/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.blog.asjadk.com/counterfactual-policy-evaluation/), Meta-Learning and Sample Efficient Learning. Progress in solving these problems, can have a major impact on domains like industrial automation, healthcare and Education. 
 
 
-
 #### Selected AI/DS Projects  🔭 :electron:	
 
 See https://blog.asjadk.com/my-work/
 
-
-#### DS/ML Open Source Practice Notebooks  (work in progress) 
-
-
-- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-- [Data Science](https://github.com/asjad99/datascience-GYM)
 
 #### Notes on Data Centric Computing (work in progress) 
 - [Guide to fine-tuning Numpy Performance for Gensim:](https://hitchhikerguide.gitbook.io/gensim_performance/)
@@ -28,6 +21,14 @@ See https://blog.asjadk.com/my-work/
 - Algorithms for Data Products
 - [Big ideas in Computer Science:](https://hitchhikerguide.gitbook.io/big_ideas_in_cs/)
 - [Programming Paradigms:](https://hitchhikerguide.gitbook.io/programming-paradigms/)
+
+
+#### DS/ML Open Source Practice Notebooks  (work in progress) 
+
+
+- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- [Data Science](https://github.com/asjad99/datascience-GYM)
+
 
 #### Datasets:
 
