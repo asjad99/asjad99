@@ -20,7 +20,7 @@ My recent work centres around exploring applications of machine learning and cen
 
 [Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources we’ve built
 
-[Edu](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
+[Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 
 [Software](https://github.com/asjad99/software_directory) | Software I have written 
 
