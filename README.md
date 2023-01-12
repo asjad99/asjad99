@@ -20,11 +20,11 @@ My recent work centres around exploring applications of machine learning and cen
 
 [Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources we’ve built
 
-[Machine Learning](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
+[Edu](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 
 [Software](https://github.com/asjad99/software_directory) | Software I have written 
 
-[Open Source Education](https://github.com/asjad99/knowledge_base) | Notes on Data Centric Computing (work in progress)  
+[Open Education](https://github.com/asjad99/knowledge_base) | Notes on Data Centric Computing (work in progress)  
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
