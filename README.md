@@ -2,7 +2,8 @@
 
 ####  About me:
 
-I’m passionate about the intersection of data science and product building intelligent systems (data products) and using them to solve real world problems. My recent work centres around exploring applications of machine learning and centric computing for process analytics, expert decision support and Natural Language Understanding of domain specific text. I write about my experiences at blog.asjadk.com. I enjoy coding in Python and am an open-source enthusiast. 
+- I’m passionate about the intersection of data science and product building intelligent systems (data products) and using them to solve real world problems. 
+- My recent work centres around exploring applications of machine learning and centric computing for process analytics, expert decision support and Natural Language Understanding of domain specific text. 
 
 #### Selected Projects  🔭 :electron:	
 
@@ -13,7 +14,7 @@ I’m passionate about the intersection of data science and product building int
 
 
 #### Misc.
-[Blog](https://blog.asjadk.com/main-content/) | Articles I've written 
+[Blog](https://blog.asjadk.com/main-content/) |  I write about my experiences here 
 
 [Google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) , [dblp Profile](https://dblp.org/pid/207/8877.html) | Academic Papers
 
@@ -21,7 +22,7 @@ I’m passionate about the intersection of data science and product building int
 
 [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 
-[Software](https://github.com/asjad99/software_directory) | Software I have written 
+[Software](https://github.com/asjad99/software_directory) | Software I have written (I enjoy coding in Python and am an open-source enthusiast.)
 
 [Open Education](https://github.com/asjad99/knowledge_base) | Notes on Data Centric Computing (work in progress)  
 
