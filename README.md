@@ -21,7 +21,7 @@ I’m passionate about the intersection of data science and product building (in
 
 [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 
-[Software](https://github.com/asjad99/software_directory) | Software I have written (I enjoy coding in Python and am an open-source enthusiast.)
+[Software](https://github.com/asjad99/software_directory) | Software I have written
 
 [Open Education](https://github.com/asjad99/knowledge_base) | Notes on Data Centric Computing (work in progress)  
 
