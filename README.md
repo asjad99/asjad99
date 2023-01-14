@@ -23,7 +23,7 @@
 
 [Software](https://github.com/asjad99/software_directory) | Software I have written
 
-[Open Education](https://github.com/asjad99/knowledge_base) | Notes on Data Centric Computing (work in progress)  
+[Open Education](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
