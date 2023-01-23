@@ -15,9 +15,9 @@ I’m passionate about the intersection of data science and product building. My
 #### Misc.
 [Blog](https://blog.asjadk.com/main-content/) |  I write about my experiences here 
 
-[Google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) , [dblp Profile](https://dblp.org/pid/207/8877.html) | Academic Papers
+[Google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) , [dblp Profile](https://dblp.org/pid/207/8877.html) | Academic Papers I'hv published 
 
-[Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources we’ve built
+[Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources built during research
 
 [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 
