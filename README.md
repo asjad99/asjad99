@@ -2,7 +2,7 @@
 
 ####  About me:
 
- I have been part of the decision systems lab at the univeristy of wollongong as doctoral researcher.  I’m passionate about the intersection of data science and product building (intelligent data products). My recent work centres around exploring applications of machine learning and data centric computing for process analytics, expert decision support and Natural Language Understanding of domain specific text.
+I’m passionate about the intersection of data science and product building. My recent work centres around exploring applications of machine learning and data centric computing for building intelligent data products. I have build solutions for various application domains like process analytics, expert decision support for healthcare and natural language understanding of patent text.
 
 #### Selected Projects  🔭 :electron:	
 
