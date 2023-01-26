@@ -28,17 +28,13 @@ Some of the other computer vision / Image Processing side-projects/course projec
 
 
 #### Misc.
-[Blog](https://blog.asjadk.com/main-content/) |  I write about my experiences here 
 
-[Google scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) , [dblp Profile](https://dblp.org/pid/207/8877.html) | Academic Papers I'hv published 
-
-[Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources built during research
-
-[Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
-
-[Software](https://github.com/asjad99/software_directory) | Software I have written
-
-[Open Education](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
+- [Blog](https://blog.asjadk.com/main-content/) |  I write about my experiences here 
+- [Google Scholar profile](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra)| Academic Papers I'hv published 
+- [Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources built during research
+- [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
+- [Software](https://github.com/asjad99/software_directory) | Software I have written
+- [Open Education](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
