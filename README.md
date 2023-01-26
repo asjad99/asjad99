@@ -4,12 +4,27 @@
 
 I’m passionate about the intersection of data science and product building. My recent work centres around exploring applications of machine learning and data centric computing for building intelligent data products.
 
-#### Selected Projects  🔭 :electron:	
+#### Deep Learning Projects  🔭 :electron:	
 
-- [Enterprise Information Retrieval using semantic search](https://blog.asjadk.com/semantic_search/)
 - [Music Recommender System for multi-lingual Users](https://blog.asjadk.com/music/)
 - [DeepRL based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
 - [DeepProcess: Supporting business process execution using a MANN-based recommender system](https://blog.asjadk.com/deepprocess/)
+
+#### Information Retreival 
+
+- [Enterprise Information Retrieval using semantic search](https://blog.asjadk.com/semantic_search/)
+
+
+##### Image Processing/Computer Graphics :yarn:
+
+Some of the other computer vision / Image Processing side-projects/course projects I have done include: 
+
+- [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
+- [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - A matlab script to Removing Artififactss from images
+- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture game written in LabView   
+- [Robo-Soccor](https://github.com/asjad99/robot-soccor) - A NXC Application implemented using Lego Robotics for playing soccor 
+- [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot) - Maps the terrain of mars in virtual Unity3D simulation 
+- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF) - Use Microsoft Kinect image stream to Control Unity3D simulations in real-time 
 
 
 #### Misc.
