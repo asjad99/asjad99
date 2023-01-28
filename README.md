@@ -15,7 +15,7 @@ I’m passionate about the intersection of data science and product building. My
 - [Enterprise Information Retrieval using semantic search](https://blog.asjadk.com/semantic_search/)
 
 
-##### Image Processing/Computer Graphics :yarn:
+##### Image Processing/Computer Graphics (pet projects) :yarn:
 
 Some of the other computer vision / Image Processing side-projects/course projects I have done include: 
 
