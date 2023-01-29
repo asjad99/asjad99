@@ -19,7 +19,7 @@ I’m passionate about the intersection of data science and product building. My
 
 
 - [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
-- [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - A matlab script to Removing Artififactss from images
+- [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - A matlab script for Automated Removal of Image Compression Artifacts 
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture system written in LabView   
 - [Robo-Soccor](https://github.com/asjad99/robot-soccor) - A soccor playing application implemented for Lego Robotics in NXC 
 - [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot) - Maps the terrain of mars in virtual Unity3D simulation 
