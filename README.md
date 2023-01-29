@@ -24,6 +24,12 @@ I’m passionate about the intersection of data science and product building. My
 - [Robo-Soccor](https://github.com/asjad99/robot-soccor) - A soccor playing application implemented for Lego Robotics in NXC 
 - [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot) - Maps the terrain of mars in virtual Unity3D simulation 
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF) - Use Microsoft Kinect depth sensor 3D image stream to Control Unity simulations in real-time 
+- [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - For Builing useful datasets using twitter API 
+- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)
+- [Elastic Search](https://github.com/asjad99/elastic_search) - (Python, elastic search, memcache) name search for blockchain
+- [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) - Keep an Eye on Crypto Market Prices 
+- [insta-print](https://github.com/asjad99/InstaPrint) - Print your instagram Images 
+- [Raven](https://github.com/asjad99/Raven) - An instant messenger 
 
 #### Misc.
 
@@ -31,7 +37,6 @@ I’m passionate about the intersection of data science and product building. My
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra)| Academic Papers I'hv published 
 - [Datasets:](https://www.kaggle.com/asjad99) | Data resources built during research
 - [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
-- [Software](https://github.com/asjad99/software_directory) | Software I have written
 - [Teaching](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
 
 <a href="">
