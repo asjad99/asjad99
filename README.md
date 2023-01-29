@@ -15,17 +15,15 @@ I’m passionate about the intersection of data science and product building. My
 - [Enterprise Information Retrieval using semantic search](https://blog.asjadk.com/semantic_search/)
 
 
-##### Image Processing/Computer Graphics (pet projects) :yarn:
+##### Pet projects :yarn:
 
-Some of the other computer vision / Image Processing side-projects/course projects I have done include: 
 
 - [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
 - [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - A matlab script to Removing Artififactss from images
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture game written in LabView   
-- [Robo-Soccor](https://github.com/asjad99/robot-soccor) - A NXC Application implemented using Lego Robotics for playing soccor 
+- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture system written in LabView   
+- [Robo-Soccor](https://github.com/asjad99/robot-soccor) - A soccor playing application implemented for Lego Robotics in NXC 
 - [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot) - Maps the terrain of mars in virtual Unity3D simulation 
-- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF) - Use Microsoft Kinect image stream to Control Unity3D simulations in real-time 
-
+- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF) - Use Microsoft Kinect depth sensor 3D image stream to Control Unity simulations in real-time 
 
 #### Misc.
 
