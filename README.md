@@ -29,7 +29,7 @@ I’m passionate about the intersection of data science and product building. My
 
 - [Writing](https://blog.asjadk.com/main-content/) |  I blog about my experiences here 
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra)| Academic Papers I'hv published 
-- [Kaggle Profile:](https://www.kaggle.com/asjad99) | Data resources built during research
+- [Datasets:](https://www.kaggle.com/asjad99) | Data resources built during research
 - [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 - [Software](https://github.com/asjad99/software_directory) | Software I have written
 - [Teaching](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
