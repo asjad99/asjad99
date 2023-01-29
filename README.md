@@ -30,7 +30,8 @@ I’m passionate about the intersection of data science and product building. My
 - [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - For Builing useful graph datasets using twitter API 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Python Web Crawler to fetch prices from an e-commerce store 
 - [Elastic Search](https://github.com/asjad99/elastic_search) - (Python, elastic search, memcache) name search for blockchain
-- [Elastic Search]([https://github.com/asjad99/elastic_search](https://github.com/asjad99/rosetta_stone)) - A gametree search based decision making framework to acheive strategic resilience
+- [GoG](https://github.com/asjad99/rosetta_stone) - A gametree search based decision making framework to acheive strategic resilience
+- [UseScope](https://github.com/asjad99/rosetta_stone) -Chrome Extension that leverages your linkedIn graph to find existing connections/friends in your graph
 - [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) - Keep an Eye on Crypto Market Prices 
 - [insta-print](https://github.com/asjad99/InstaPrint) - Print your instagram Images 
 - [Raven](https://github.com/asjad99/Raven) - An instant messenger 
