@@ -24,7 +24,10 @@ I’m passionate about the intersection of data science and product building. My
 - [Robo-Soccor](https://github.com/asjad99/robot-soccor) - A soccor playing application implemented for Lego Robotics in NXC 
 - [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot) - Maps the terrain of mars in virtual Unity3D simulation 
 - [Education-Unity-Kinect](https://github.com/asjad99/KINEFF) - Use Microsoft Kinect depth sensor 3D image stream to Control Unity simulations in real-time 
-- [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - For Builing useful datasets using twitter API 
+- [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
+- [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
+- [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++ 
+- [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - For Builing useful graph datasets using twitter API 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Python Web Crawler to fetch prices from an e-commerce store 
 - [Elastic Search](https://github.com/asjad99/elastic_search) - (Python, elastic search, memcache) name search for blockchain
 - [Elastic Search]([https://github.com/asjad99/elastic_search](https://github.com/asjad99/rosetta_stone)) - A gametree search based decision making framework to acheive strategic resilience
