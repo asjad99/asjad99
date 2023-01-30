@@ -12,6 +12,8 @@ I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Adit
 
 - [DeepRL based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
 - [DeepProcess: Supporting business process execution using a MANN-based recommender system](https://blog.asjadk.com/deepprocess/)
+- [Cross-Silo Process Mining with Federated Learning]()
+
 
 #### Data Products 🔭 
 
