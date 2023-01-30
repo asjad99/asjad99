@@ -4,7 +4,7 @@
 
 I’m passionate about the intersection of data science and product building. My recent work centres around exploring applications of machine learning and data centric computing for building intelligent data products.
 
-#### Deep Learning Projects  :electron:	
+#### Selected Deep Learning Projects  :electron:	
 
 - [Music Recommender System for multi-lingual Users](https://blog.asjadk.com/music/)
 - [DeepRL based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
