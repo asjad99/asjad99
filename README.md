@@ -12,7 +12,7 @@ I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Adit
 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room [[Code]]() [[blog_post]](https://blog.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2)
 - Supporting business process execution using a Memory Augemented Neural Networks [blog_post](https://blog.asjadk.com/deepprocess/) [code](https://github.com/asjad99/MIMIC_RL_COACH) [Paper](https://link.springer.com/chapter/10.1007/978-3-030-85440-9_15) 
-- Cross-Silo Process Mining with Federated Learning [paper](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_38) 
+- Distributed Secure Process Mining with Federated Learning [paper](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_38) 
 
 
 #### Data Products 🔭 
