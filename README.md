@@ -1,12 +1,14 @@
 
 
-####  About me:
+###  About me:
 
 I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Aditya Ghose. I’m passionate about the intersection of data science and product building. My research interests lie at the intersection of machine learning and data products. My recent work centres around exploring applications of machine learning and data centric computing for process analytics. 
 
+
 ----
 
-#### Selected Deep Learning Projects  :electron:	
+
+### Selected Deep Learning Projects  :electron:	
 
 - [Music Recommender System for multi-lingual Users](https://blog.asjadk.com/music/)
 - [DeepRL based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
@@ -15,6 +17,9 @@ I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Adit
 #### Information Retreival 🔭 
 
 - [Enterprise Information Retrieval using semantic search](https://blog.asjadk.com/semantic_search/)
+
+
+----
 
 
 ##### Pet projects :yarn:
@@ -37,6 +42,11 @@ I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Adit
 - [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) - Keep an Eye on Crypto Market Prices 
 - [insta-print](https://github.com/asjad99/InstaPrint) - Print your instagram Images 
 - [Raven](https://github.com/asjad99/Raven) - An instant messenger 
+
+
+
+----
+
 
 #### Misc.
 
