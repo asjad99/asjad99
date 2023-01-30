@@ -2,7 +2,9 @@
 
 ####  About me:
 
-I’m passionate about the intersection of data science and product building. My recent work centres around exploring applications of machine learning and data centric computing for building intelligent data products.
+I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Aditya Ghose. I’m passionate about the intersection of data science and product building. My research interests lie at the intersection of machine learning and data products. My recent work centres around exploring applications of machine learning and data centric computing for process analytics. 
+
+----
 
 #### Selected Deep Learning Projects  :electron:	
 
