@@ -8,7 +8,7 @@ I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Adit
 ----
 
 
-### Deep Learning Research Projects  :electron:	
+#### Deep Learning Research Projects  :electron:	
 
 - [DeepRL based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
 - [DeepProcess: Supporting business process execution using a MANN-based recommender system](https://blog.asjadk.com/deepprocess/)
@@ -22,7 +22,7 @@ I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Adit
 ----
 
 
-##### Pet projects :yarn:
+#### Pet projects :yarn:
 
 
 - [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
