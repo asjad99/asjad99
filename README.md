@@ -8,15 +8,15 @@ I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Adit
 ----
 
 
-### Selected Deep Learning Projects  :electron:	
+### Deep Learning Research Projects  :electron:	
 
-- [Music Recommender System for multi-lingual Users](https://blog.asjadk.com/music/)
 - [DeepRL based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
 - [DeepProcess: Supporting business process execution using a MANN-based recommender system](https://blog.asjadk.com/deepprocess/)
 
-#### Information Retreival 🔭 
+#### Data Products 🔭 
 
 - [Enterprise Information Retrieval using semantic search](https://blog.asjadk.com/semantic_search/)
+- [Music Recommender System for multi-lingual Users](https://blog.asjadk.com/music/)
 
 
 ----
