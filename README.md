@@ -8,10 +8,10 @@ I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Adit
 ----
 
 
-#### Deep Learning Research Projects  :electron:	
+#### Research Projects  :electron:	
 
-- [DeepRL based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
-- [DeepProcess: Supporting business process execution using a MANN-based recommender system](https://blog.asjadk.com/deepprocess/)
+- [Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room](https://blog.asjadk.com/decision_support/)
+- [Supporting business process execution using a Memory Augemented Neural Networks](https://blog.asjadk.com/deepprocess/)
 - [Cross-Silo Process Mining with Federated Learning]()
 
 
