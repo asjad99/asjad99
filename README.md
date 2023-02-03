@@ -2,23 +2,16 @@
 
 ###  About me:
 
-I'm a Computer Science Ph.D. student at Univeristy of Wollongong advised by Aditya Ghose. I’m passionate about the intersection of data science and  building data products. My recent work centres around exploring applications of machine learning and data centric computing for process analytics, NLP and decision support systems. 
+I’m passionate about the intersection of data science and  building data products. My recent work centres around exploring applications of machine learning and data centric computing for process analytics, NLP and decision support systems. 
 
 
 ----
 
 
-#### Research Projects  :electron:	
+#### Selected Projects  :electron:	
 
-- Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://blog.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]]()
-- Supporting business process execution using a Memory Augemented Neural Networks [blog_post](https://blog.asjadk.com/deepprocess/)[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-85440-9_15)   [[Code]](https://github.com/asjad99/MIMIC_RL_COACH) 
-- Distributed Secure Process Mining with Federated Learning [paper](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_38) 
+- Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://blog.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
 
-
-#### Data Products 🔭 
-
-- [Enterprise Information Retrieval using semantic search](https://blog.asjadk.com/semantic_search/)
-- [Music Recommender System for multi-lingual Users](https://blog.asjadk.com/music/)
 
 
 ----
