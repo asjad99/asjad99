@@ -19,7 +19,7 @@ I’m passionate about the intersection of data science and  building data produ
 
 #### Pet projects :yarn:
 
-
+- [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) Singular Value Decomposition for Latent Semantic Indexing using PySpark 
 - [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
 - [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - A matlab script for Automated Removal of Image Compression Artifacts 
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture system written in LabView   
