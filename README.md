@@ -23,6 +23,7 @@ I’m passionate about the intersection of data science and  building data produ
 - [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
 - [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
 - [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
+- [Path-Finder](https://github.com/asjad99/Prolog) - Path finder prolog 
 - [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
 - [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - A matlab script for Automated Removal of Image Compression Artifacts 
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture system written in LabView   
