@@ -8,9 +8,9 @@ I’m passionate about the intersection of data science and  building data produ
 ----
 
 
-#### Selected Projects  :electron:	
+#### Projects  :electron:	
 
-I have a passion for developing data products by  incorporating emerging machine intelligence technologies. Over the years, I have worked with several researchers and high-growth startup teams to build machine learning-based solutions in area like like Business Process Analytics, [Semantic Search](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/)
+I have a passion for developing data products by  incorporating emerging machine intelligence technologies. Over the years, I have worked with several researchers and high-growth startup teams to build machine learning-based solutions in area like like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Semantic Search](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/)
 
 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://blog.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
