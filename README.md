@@ -28,6 +28,7 @@ I have a passion for developing data products that incorporate emerging machine 
 - [Datasets:](https://www.kaggle.com/asjad99) | Data resources built during research
 - [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 - [Teaching](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
+- [Readings](https://github.com/asjad99/general_readings) | List of Interesting Articles I have read 
 
 ----
 
