@@ -1,7 +1,7 @@
 
 
 ###  About me:
-I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, both as a data scientist and as a software engineer. 
+I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, both as a data scientist and as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/).
 
 I love getting to know people around the world who are building interesting cool stuff. You can reach out to me on [Linkedin](https://www.linkedin.com/in/asjad/) and tell me where you are and what you’re working on. 
 
@@ -12,8 +12,7 @@ I love getting to know people around the world who are building interesting cool
 
 #### Projects  :electron:	
 
-I have a passion for developing data products that incorporate emerging machine intelligence technologies. Previously, I have worked with several research and high-growth startup teams to build AI driven products and solutions in areas like like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Semantic Search](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/)
-
+I have a passion for building solutions and data products that incorporate emerging machine intelligence technologies and those that provide augmented intelligence for effective decision making under uncertainty.
 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://blog.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
 - Memory Augmented Neural Networks for supporting business process execution [[blog_post]](https://blog.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/DeepProcess)
