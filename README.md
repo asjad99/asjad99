@@ -1,9 +1,9 @@
 
 
 ###  About me:
+I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, both as a data scientist and as a software engineer. 
 
-I’m passionate about the intersection of data science and  building data products. My recent work centres around exploring applications of machine learning and data centric computing for process analytics, NLP and decision support systems. 
-
+I help businesses deliver value with Intelligent ML-based solutions. Having an R&D background helps me keep track of emerging trends that are still changing due to algorithmic breakthroughs, hardware breakthroughs, technological commoditization, and data availability. I also specialize in helping organizations develop emerging data and machine learning-enabled capabilities that will be relevant in a six-month to two-year timeframe. 
 
 ----
 
