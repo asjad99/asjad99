@@ -1,11 +1,10 @@
 
 
-###  About me:
-I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, both as a data scientist and as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/).
+###  About:
 
-I love getting to know people around the world who are building interesting cool stuff. You can reach out to me on [Linkedin](https://www.linkedin.com/in/asjad/) and tell me where you are and what you’re working on. 
+Asjad is passionate about solving real-world problems with engineering, data, science, and machine learning. She's a PhD in applied machine learning with a computer science and engineering background. He has extensive programming, scalable computing and machine learning experience both in academic and industry settings. He has worked with core teams of several early-stage and high-growth startups, both as a data scientist and as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/).
 
-
+He believes in lifelong learning and is passionate about knowledge sharing. 
 
 ----
 
@@ -46,6 +45,11 @@ I have a passion for building solutions and data products that incorporate emerg
 *“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”*
 
 -----------
+
+I love getting to know people around the world who are building interesting cool stuff. You can reach out to me on [Linkedin](https://www.linkedin.com/in/asjad/) and tell me where you are and what you’re working on. 
+
+--------
+
 
 <!---
  Systems Programming Rust (OS + databases)
