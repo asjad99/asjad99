@@ -11,7 +11,7 @@ He believes in lifelong learning and is passionate about knowledge sharing. He i
 
 #### Projects  :electron:	
 
-I have a passion for building solutions and data products that incorporate emerging machine intelligence technologies and those that provide augmented intelligence for effective decision making under uncertainty.
+My projects incorporate emerging machine intelligence technologies and explore applications of augmented intelligence for effective decision making under uncertainty.
 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://blog.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
 - Memory Augmented Neural Networks for supporting business process execution [[blog_post]](https://blog.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/DeepProcess)
