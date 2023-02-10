@@ -4,7 +4,7 @@
 
 Asjad is passionate about solving real-world problems with engineering, data, science, and machine learning. He's a PhD in applied machine learning with a computer science and engineering background. He has extensive programming, scalable computing and machine learning experience both in academic and industry settings. He has worked with core teams of several early-stage and high-growth startups, both as a data scientist and as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/).
 
-He believes in lifelong learning and is passionate about knowledge sharing. 
+He believes in lifelong learning and is passionate about knowledge sharing. He is also an author of several academic papers and writes technical blogs in his spare time.
 
 ----
 
