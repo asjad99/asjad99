@@ -2,13 +2,13 @@
 
 ###  About:
 
-I'm passionate about solving real-world problems with engineering, data, science, and machine learning. I have a PhD in applied machine learning with a computer science and engineering background. I have extensive programming, data science and machine learning experience both in academic and industry settings. I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/).
+I'm passionate about solving real-world problems with engineering, data, science, and machine learning. I have a PhD in applied machine learning with a computer science and engineering background. I have extensive programming, data science and machine learning experience both in academic and industry settings. 
 
-I am currently working as a Data Scientist at Invertigro. I help businesses deliver value with Intelligent ML-based solutions. Having an R&D background helps me keep track of emerging trends that are still changing due to algorithmic breakthroughs, hardware breakthroughs, technological commoditization, and data availability. I also specialize in helping organizations develop emerging data and machine learning-enabled capabilities that will be relevant in a six-month to two-year timeframe. I enjoy lifelong learning and am passionate about knowledge sharing.
+I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/). I help businesses deliver value with Intelligent ML-based solutions. Having an R&D background helps me keep track of emerging trends that are still changing due to algorithmic breakthroughs, hardware breakthroughs, technological commoditization, and data availability. I also specialize in helping organizations develop emerging data and machine learning-enabled capabilities that will be relevant in a six-month to two-year timeframe. I enjoy lifelong learning and am passionate about knowledge sharing.
 
+I love getting to know people around the world who are building interesting cool stuff. You can reach out to me on [Linkedin](https://www.linkedin.com/in/asjad/) and tell me where you are and what you’re working on. 
 
 ----
-
 
 #### Projects  :electron:	
 
@@ -36,20 +36,13 @@ My projects incorporate emerging machine intelligence technologies and explore a
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
 </a>
-<a href="">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green" />
-</a>
+
 
 -----------
-
 
 *“If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”*
 
 -----------
-
-I love getting to know people around the world who are building interesting cool stuff. You can reach out to me on [Linkedin](https://www.linkedin.com/in/asjad/) and tell me where you are and what you’re working on. 
-
---------
 
 
 <!---
@@ -65,7 +58,9 @@ https://news.ycombinator.com/item?id=27647079
 https://github.com/ossu/computer-science#readme
 Human-level concept learning through probabilistic program induction
 Going deep into langauge, reinforcement learning 
-
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjad99&theme=blue-green" />
+</a>
 <!-- 
 https://www.cs.cornell.edu/jeh/book.pdf
 https://web.stanford.edu/class/cs168/index.html
