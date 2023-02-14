@@ -38,10 +38,15 @@ My projects incorporate emerging machine intelligence technologies and explore a
 -----------
 
 Programming is the art of Function, Form, Logic, and Balance.
+
 Utility of the working program provides Function.
+
 Organization and good abstraction creates Form.
+
 The correctness is established with Logic.
+
 Limitations and tradeoffs require harmonious Balance.
+
 - Jeremy Kun
 
 
