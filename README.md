@@ -1,8 +1,7 @@
 
 
 ###  About:
-
-I'm passionate about solving real-world problems with engineering, data, science, and machine learning. I have a PhD in applied machine learning with a computer science and engineering background.  I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/). I help businesses deliver value with Intelligent ML-based solutions. Having an R&D background helps me keep track of emerging trends that are still changing due to algorithmic breakthroughs, hardware breakthroughs, technological commoditization, and data availability. I also specialize in helping organizations develop emerging data and machine learning-enabled capabilities that will be relevant in a six-month to two-year timeframe. I enjoy lifelong learning and am passionate about knowledge sharing.
+I have a PhD in applied machine learning with a computer science and engineering background.  I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/). 
 
 I love getting to know people around the world who are building interesting cool stuff. You can reach out to me on [Linkedin](https://www.linkedin.com/in/asjad/) and tell me where you are and what you’re working on. 
 
