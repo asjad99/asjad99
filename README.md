@@ -21,7 +21,7 @@ My projects incorporate emerging machine intelligence technologies and explore a
 ### Misc.
 
 - [Side Projects](https://github.com/asjad99/software_directory/edit/main/README.md)  | Scripts and Pet projects 
-- [Writing](https://blog.asjadk.com/main-content/) |  I blog about my experiences here 
+- [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers I'hv published and Pre-Prints
 - [Datasets:](https://www.kaggle.com/asjad99) | Data resources built during research
 - [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
