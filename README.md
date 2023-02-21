@@ -7,7 +7,7 @@ I love getting to know people around the world who are building interesting cool
 
 ----
 
-#### Projects  :electron:	
+#### Selected Projects  :electron:	
 
 My projects incorporate emerging machine intelligence technologies and explore applications of augmented intelligence for effective decision making under uncertainty.
 
@@ -20,7 +20,7 @@ My projects incorporate emerging machine intelligence technologies and explore a
 
 ### Misc.
 
-- [Side Projects](https://github.com/asjad99/software_directory/edit/main/README.md)  | Scripts and Pet projects 
+- [Side Projects](https://github.com/asjad99/software_directory/blob/main/README.md)  | Scripts and Pet projects 
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers I'hv published and Pre-Prints
 - [Datasets:](https://www.kaggle.com/asjad99) | Data resources built during research
