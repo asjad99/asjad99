@@ -27,7 +27,7 @@ My projects incorporate emerging machine intelligence technologies and explore a
 - [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 - [Teaching](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
 - [Readings](https://github.com/asjad99/general_readings) | List of Interesting Articles I have read 
-
+- [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | How i work 
 ----
 
 <a href="">
@@ -37,11 +37,17 @@ My projects incorporate emerging machine intelligence technologies and explore a
 
 -----------
 
-*Programming is the art of Function, Form, Logic, and Balance.
+Programming is the art of Function, Form, Logic, and Balance.
+
 Utility of the working program provides Function.
+
 Organization and good abstraction creates Form.
+
 The correctness is established with Logic.
-Limitations and tradeoffs require harmonious Balance.*- Jeremy Kun
+
+Limitations and tradeoffs require harmonious Balance.
+
+- Jeremy Kun
 
 
 
