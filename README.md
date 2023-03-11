@@ -1,5 +1,5 @@
 
-![Alt text](cover.png)
+![Alt text](nasa.jpg)
 
 ###  About:
 I have a PhD in applied machine learning with a computer science and engineering background.  I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in domains like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/). 
