@@ -48,7 +48,7 @@ The correctness is established with Logic.
 
 Limitations and tradeoffs require harmonious Balance.
 
-- Jeremy Kun
+Jeremy Kun
 
 
 
