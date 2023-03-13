@@ -29,12 +29,6 @@ My projects incorporate emerging machine intelligence technologies and explore a
 - [Teaching](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
 - [Readings](https://github.com/asjad99/general_readings) | List of Interesting Articles I have read 
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | How i work 
-----
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjad99&langs_count=7&layout=compact" />
-</a>
-
 
 -----------
 
