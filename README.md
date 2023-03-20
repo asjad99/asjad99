@@ -25,7 +25,6 @@ My projects incorporate emerging machine intelligence technologies and explore a
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers I'hv published and Pre-Prints
 - [Datasets:](https://www.kaggle.com/asjad99) | Data resources built during research
-- [Notebooks](https://github.com/asjad99/Machine-Learning-GYM) | DS/ML Open Source Practice Notebooks  (work in progress) 
 - [Teaching](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
 - [Readings](https://github.com/asjad99/general_readings) | List of Interesting Articles I have read 
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | How i work 
