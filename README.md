@@ -2,7 +2,7 @@
 ![Alt text](nasa.jpg)
 
 ###  About:
-I have a background in computer science and engineering.  I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in areas like [Business Process Analytics](https://blog.asjadk.com/deepprocess/), [Information Retreival](https://blog.asjadk.com/semantic_search/), and [recommender systems](https://blog.asjadk.com/music/). 
+I have a background in computer science and engineering.  I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). 
 
 I enjoy connecting with individuals globally who are creating fascinating and innovative projects. Feel free to contact me on [Linkedin](https://www.linkedin.com/in/asjad/) to share your location and the exciting work you are involved in.
 
@@ -12,8 +12,8 @@ I enjoy connecting with individuals globally who are creating fascinating and in
 
 My projects incorporate emerging machine intelligence technologies and explore applications of augmented intelligence for effective decision making under uncertainty.
 
-- Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://blog.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
-- Memory Augmented Neural Networks for supporting business process execution [[blog_post]](https://blog.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/DeepProcess)
+- Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://www.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
+- Memory Augmented Neural Networks for supporting business process execution [[blog_post]](https://www.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://www.github.com/asjad99/DeepProcess)
 
 
 ----
