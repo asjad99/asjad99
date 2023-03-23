@@ -2,7 +2,7 @@
 ![Alt text](nasa.jpg)
 
 ###  About:
-I have a background in computer science and engineering.  I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). 
+I have a background in computer science and AI.  I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). 
 
 I enjoy connecting with individuals globally who are working on interesting or innovative projects. Feel free to contact me on [Linkedin](https://www.linkedin.com/in/asjad/) to share your location and the exciting work you are involved in.
 
