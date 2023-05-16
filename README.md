@@ -6,9 +6,9 @@ I have a background in computer science and AI.  I am currently working as a Dat
 
 I'm a life long learner, who is trying to master the art of the following: 
 
-- Building High Performing Technology Organizations (with Adaptive AI-Driven Processes)
+- Building High Performing Technology Organizations (with adaptive AI-Driven Processes)
 - Intelligent Software Design and Construction
-- Technical Data Product Management 
+- Data Product Management (Technical)
 
 ----
 
