@@ -8,7 +8,7 @@ I'm a life long learner, who is trying to master the art of the following:
 
 - Building High Performing Technology Organizations (with Adaptive AI-Driven Processes)
 - Intelligent Software Design and Construction
-- Technical Project Management 
+- Technical Data Product Management 
 
 ----
 
