@@ -2,12 +2,13 @@
 ![Alt text](nasa.jpg)
 
 ###  About:
-I have a background in computer science and AI.  I am currently working as a Data Scientist at Invertigro. Previously, I have worked with core teams of several early-stage and high-growth startups, as a data scientist and as well as a software engineer to build AI driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). 
 
-I'm a life long learner, who is trying to master the art of the following: 
+I have a background in computer science and AI, and I am currently working as a Data Scientist at UNSW. Previously, I worked with the core teams of several early-stage and high-growth startups, serving as both a data scientist and a software engineer. My role involved building AI-driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). 
 
-- Building High Performing Technology Organizations 
-- Intelligent Software Design and Construction 
+I am a lifelong learner, striving to master the art of the following:
+
+- Building High-Performance Technology Organizations
+- Intelligent Software Design and Construction
 - Product Management of Data Products
 
 ----
