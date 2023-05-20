@@ -8,8 +8,8 @@ I have a background in computer science and AI, and I am currently working as a 
 I am a lifelong learner, striving to master the art of the following:
 
 - Building High-Performance Technology Organizations
-- Intelligent Software Design and Construction
 - Product Management of Data Products
+- Design and Construction of Intelligent Systems
 
 ----
 
