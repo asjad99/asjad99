@@ -3,7 +3,7 @@
 
 ###  About:
 
-I have a background in computer science and AI, and I am currently working as a Data Scientist at UNSW. Previously, I worked with the core teams of several early-stage and high-growth startups, serving as both a data scientist and a software engineer. My role involved building AI-driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). 
+I have a background in computer science and AI, and I am currently working as a Data Scientist at UNSW. Previously, I worked with the core teams of several early-stage and high-growth startups, serving as both a data scientist and a software engineer. My role involved building AI-driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). I have expertise in Algorithmic thinking, Rapid Prototyping via design thinking and R&D thinking through first principles.
 
 I am a lifelong learner, striving to master the art of the following:
 
