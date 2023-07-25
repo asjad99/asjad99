@@ -3,30 +3,29 @@
 
 ###  About:
 
-I have a background in computer science and AI, and I am currently working as a Data Scientist at UNSW. Previously, I worked with the core teams of several early-stage and high-growth startups, serving as both a data scientist and a software engineer. My role involved building AI-driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). I have expertise in Algorithmic thinking, Rapid Prototyping via design thinking and R&D thinking through first principles.
-
-I am a lifelong learner, striving to master the art of the following:
-
-- Building High-Performance Technology Organizations
-- Product Management of Data Products
-- Design and Construction of Intelligent Systems
+I have a background in computer science and AI, and I am currently working as a Data Scientist at UNSW. Previously, I worked with the core teams of several early-stage and high-growth startups, serving as both a data scientist and a software engineer. My role involved building AI-driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). I have expertise in Algorithmic thinking, Rapid Prototyping via design thinking and R&D thinking through first principles.I am a lifelong learner, striving to learn the art of i) Building High-Performance Technology Organizations. ii) Product Management of Data Products. iii) Design and Construction of Intelligent Systems
 
 ----
 
-#### Selected Projects  :electron:	
+#### Event Data Analytics Projects  :electron:	
 
 My projects incorporate emerging machine intelligence technologies and explore applications of augmented intelligence for effective decision making under uncertainty.
 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://www.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
 - Memory Augmented Neural Networks for supporting business process execution [[blog_post]](https://www.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://www.github.com/asjad99/DeepProcess)
+- Distributed process event data mining using federated learning
+- Sequential User Session Data for build recommender system using LSTMs     
+- Anomaly detection for predictive Maintience
 
+#### Other Projects: 
 
+- [Misc Software Projects](https://github.com/asjad99/software_directory/blob/main/README.md)  | Scripts and Pet projects 
 ----
 
 
 ### Misc.
 
-- [Software](https://github.com/asjad99/software_directory/blob/main/README.md)  | Scripts and Pet projects 
+
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers (published and Pre-Prints)
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
