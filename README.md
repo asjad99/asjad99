@@ -19,7 +19,7 @@ My projects incorporate emerging machine intelligence technologies and explore a
 
 #### Library 
 
-[Elvive](https://github.com/asjad99/Elvive) | Computational Analytics Toolbox for Knowledge Driven Products
+- [Elvive](https://github.com/asjad99/Elvive) | A PySpark Library - Computational Analytics Toolbox for Knowledge Driven Products
 
 #### Software Projects: 
 
