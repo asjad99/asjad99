@@ -21,18 +21,28 @@ My projects incorporate emerging machine intelligence technologies and explore a
 
 [Elvive](https://github.com/asjad99/Elvive) | Computational Analytics Toolbox for Knowledge Driven Products
 
-#### Misc. Software Projects: 
+#### Software Projects: 
 
 - [Misc Software Projects](https://github.com/asjad99/software_directory/blob/main/README.md)  | Scripts and Pet projects 
-----
 
 
-### Misc.
+#### Datasets: 
 
-- [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
-- [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers (published and Pre-Prints)
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
+
+#### KnowledgeBase: 
 - [Notes](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
+
+
+#### Publications: 
+
+- [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers (published and Pre-Prints)
+
+
+### Blog:
+- [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
+
+Misc: 
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
 
 -----------
