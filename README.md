@@ -7,7 +7,7 @@ I have a background in computer science and AI, and I am currently working as a 
 
 ----
 
-### Event Data Analytics Projects  :electron:	
+### Featured Projects  :electron:	
 
 My projects incorporate emerging machine intelligence technologies and explore applications of augmented intelligence for effective decision making under uncertainty.
 
