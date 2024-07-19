@@ -34,6 +34,7 @@ My projects incorporate emerging machine intelligence technologies and explore a
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 
 ### Fun/Misc: 
+- [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles 
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
 
 -----------
