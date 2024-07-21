@@ -24,17 +24,15 @@ My projects incorporate emerging machine intelligence technologies and explore a
 ### Datasets: 
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
 
-### Notes and Guides: 
-- [Notes](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
-
 ### Publications: 
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers (published and Pre-Prints)
 
 ### Blog:
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 
-### Fun/Misc: 
-- [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles 
+### Misc: 
+- [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles
+- [Notes](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
 
 -----------
