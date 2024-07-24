@@ -19,7 +19,7 @@ My projects incorporate emerging machine intelligence technologies and explore a
 - [Misc Software Projects](https://github.com/asjad99/software_directory/blob/main/README.md)  | Old projects, Scripts and Pet projects 
 
 ### Notebooks (work in progress)
--  Set of notebooks that explore advanced algorithmic techniques and collectively serve as a Computational intellgience Toolbox for building Data+AI Products 
+-  [Set of notebooks](https://github.com/asjad99/Notebooks-data-products-concepts/tree/main) that explore advanced algorithmic techniques and collectively serve as a Computational intellgience Toolbox for building Data+AI Products 
 
 ### Datasets: 
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
