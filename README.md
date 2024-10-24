@@ -1,5 +1,5 @@
 
-![Alt text](nasa_rover.png)
+![Alt text](space_photo.png)
 
 ##  About:
 
