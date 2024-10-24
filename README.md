@@ -9,20 +9,19 @@ I have a background in computer science and AI, and I design, build, and operate
 
 ### Featured Projects  :electron:	
 
-My projects incorporate emerging machine intelligence technologies and explore applications of augmented intelligence for effective decision making under uncertainty.
+My PhD projects integrate emerging machine intelligence technologies to explore applications for effective decision-making under uncertainty: 
 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://www.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
 - Memory Augmented Neural Networks for supporting business process execution [[blog_post]](https://www.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://www.github.com/asjad99/DeepProcess)
 
-
-### Software Projects: 
-- [Prototyping](https://github.com/asjad99/software_directory/blob/main/README.md)  | Old projects, Scripts and Pet projects 
-
-### Notebooks (work in progress)
--  [Set of notebooks](https://github.com/asjad99/Notebooks-data-products-concepts/tree/main) that explore advanced algorithmic techniques and collectively serve as a Computational intellgience Toolbox for building Data+AI Products 
-
 ### Datasets: 
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
+  
+### Software Projects: 
+- [Prototyping](https://github.com/asjad99/software_directory/blob/main/README.md)  | Old Pet projects and Scripts 
+
+### Fun Projects
+-  Coming soon. 
 
 ### Publications: 
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers (published and Pre-Prints)
@@ -32,7 +31,7 @@ My projects incorporate emerging machine intelligence technologies and explore a
 
 ### Misc: 
 - [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles
-- [Notes](https://github.com/asjad99/knowledge_base) | Guides and notes on Data-Centric Computing (work in progress)  
+- [Notes](https://github.com/asjad99/knowledge_base) | notes and Guides I complied on various topics (work in progress)  
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
 
 -----------
