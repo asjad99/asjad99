@@ -18,7 +18,7 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
   
 ### Software Projects: 
-- [Prototyping](https://github.com/asjad99/software_directory/blob/main/README.md)  | Old Pet projects and Scripts 
+- [Software Directory](https://github.com/asjad99/software_directory/blob/main/README.md)  | Side projects and Scripts 
 
 ### Open Source
 - [https://github.com/asjad99/Indigo](https://github.com/asjad99/Flask-barebones-framework/tree/main) |  Indigo - A Flask Data App Generator
