@@ -16,7 +16,7 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 
 ### Datasets: 
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
-  
+- [Scripts](https://github.com/asjad99/dataset-scripts) | Scripts for building datasets 
 ### Software Projects: 
 - [Software Directory](https://github.com/asjad99/software_directory/blob/main/README.md)  | Side projects and Scripts 
 
