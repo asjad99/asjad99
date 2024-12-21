@@ -14,6 +14,9 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://www.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
 - Memory Augmented Neural Networks for supporting business process execution [[blog_post]](https://www.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://www.github.com/asjad99/DeepProcess)
 
+### Useful Notebooks 
+- [Notebooks:](https://github.com/asjad99/Computational-DS/blob/main/README.MD) | Data Science Notebooks 
+
 ### Datasets: 
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
 - [Scripts](https://github.com/asjad99/dataset-scripts) | Scripts for building datasets 
