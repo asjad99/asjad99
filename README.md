@@ -20,9 +20,8 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 ### Software Projects: 
 - [Software Directory](https://github.com/asjad99/software_directory/blob/main/README.md)  | Side projects and Scripts 
 
-### Open Source (WIP)
+### Libraries (WIP)
 - [Indigo](https://github.com/asjad99/Indigo) |  Indigo - A Flask Data App Generator
-- [Algorithms Lib.](https://github.com/asjad99/Algorithms-for-data-products) | ALgorithms for data products 
 
 ### Publications: 
 - [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers (published and Pre-Prints)
@@ -31,13 +30,13 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 
 #### Learning 
 
-- [Programming Paradagims]()
-- [Nand2Tetris]
-- [Philosophy of CS]
-- [System Design and SCIP]()
+- [Notes](https://github.com/asjad99/knowledge_base) | notes and Guides I complied on various topics (work in progress)  
+- [Programming Paradagims]() | Cool ideas from diverse programming languages 
+- [Nand2Tetris]() | Build a computer from scratch
+- [Philosophy of CS]() | What is Computer Science anyway?
+- [System Design and SCIP]() | 
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
 - [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles
-- [Notes](https://github.com/asjad99/knowledge_base) | notes and Guides I complied on various topics (work in progress)  
 
 -----------
 
