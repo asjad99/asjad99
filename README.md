@@ -35,15 +35,6 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 
 My Notes on various topics. 
 
-- [Philosophy of CS]() |  Coming soon
-- [Maths for Programmers]() |  Coming soon 
-- [Algorithms]() | Coming soon
-- [Programming Paradagims]() |  Coming soon - Cool ideas from diverse programming languages 
-- [Nand2Tetris]() |  Coming soon  - Build a computer from scratch
-- [Data-Intesive Systems foundations]() | Coming soon
-- [Agents]() | Coming soon
-- [ML Engineering]() | Coming soon
-- [Data Science]() | Coming soon
 - [Notes](https://github.com/asjad99/knowledge_base) | Notes and Guides I complied on various topics (work in progress)  
 
 
