@@ -31,13 +31,26 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 ### Blog:
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 
-#### Learning 
+#### Co-Learn - Coming soon
 
-- [Notes](https://github.com/asjad99/knowledge_base) | notes and Guides I complied on various topics (work in progress)  
-- [Programming Paradagims]() | Cool ideas from diverse programming languages 
-- [Nand2Tetris]() | Build a computer from scratch
-- [Philosophy of CS]() | What is Computer Science anyway?
-- [System Design and SCIP]() | 
+My Notes on various topics. 
+
+- [Philosophy of CS]() |  Coming soon
+- [Maths for Programmers]() |  Coming soon 
+- [Algorithms]() | Coming soon
+- [Programming Paradagims]() |  Coming soon - Cool ideas from diverse programming languages 
+- [Nand2Tetris]() |  Coming soon  - Build a computer from scratch
+- [Data-Intesive Systems foundations]() | Coming soon
+- [Agents]() | Coming soon
+- [ML Engineering]() | Coming soon
+- [Data Science]() | Coming soon
+- [Notes](https://github.com/asjad99/knowledge_base) | Notes and Guides I complied on various topics (work in progress)  
+
+
+- [System Design and SCIP]() | Coming soon
+
+#### Miscellaneous
+  
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
 - [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles
 
