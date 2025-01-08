@@ -38,7 +38,6 @@ My Notes on various topics.
 - [Notes](https://github.com/asjad99/knowledge_base) | Notes and Guides I complied on various topics (work in progress)  
 
 
-- [System Design and SCIP]() | Coming soon
 
 #### Miscellaneous
   
