@@ -31,16 +31,9 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 ### Blog:
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 
-#### Co-Learn - Coming soon
-
-My Notes on various topics. 
-
-- [Notes](https://github.com/asjad99/knowledge_base) | Notes and Guides I complied on various topics (work in progress)  
-
-
-
 #### Miscellaneous
-  
+
+- [Co-Learn Notes](https://github.com/asjad99/knowledge_base) | Notes and Guides I complied on various topics (work in progress)  
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
 - [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles
 
