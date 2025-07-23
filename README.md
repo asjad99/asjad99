@@ -30,10 +30,7 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 
 #### Miscellaneous
 
-- [Notebooks:](https://github.com/asjad99/Computational-DS/blob/main/README.MD) | Data Science Notebooks 
-- [Co-Learn Notes](https://github.com/asjad99/knowledge_base) | Notes and Guides I complied on various topics (work in progress)  
 - [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
-- [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles
 
 -----------
 
@@ -56,6 +53,12 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 
 <!---
  Systems Programming Rust (OS + databases)
+
+
+- [Notebooks:](https://github.com/asjad99/Computational-DS/blob/main/README.MD) | Data Science Notebooks 
+- [Co-Learn Notes](https://github.com/asjad99/knowledge_base) | Notes and Guides I complied on various topics (work in progress)  
+- [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
+- [Readings](https://github.com/asjad99/cool-reads/blob/main/README.md) | Interesting articles
 
 Databases, 
 http://www.gotw.ca/publications/concurrency-ddj.htm
