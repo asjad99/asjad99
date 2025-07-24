@@ -12,7 +12,7 @@ I have a background in computer science and AI, and I design, build, and operate
 My PhD projects integrate emerging machine intelligence technologies to explore applications for effective decision-making under uncertainty: 
 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://www.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
-- Memory Augmented Neural Networks for supporting business process execution [[blog_post]](https://www.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://www.github.com/asjad99/DeepProcess)
+- Memory Augmented Neural Networks for optimizing in real-time, business process execution [[blog_post]](https://www.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://www.github.com/asjad99/DeepProcess)
 
 ### Datasets: 
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
