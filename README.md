@@ -28,9 +28,6 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 ### Blog:
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 
-#### Miscellaneous
-
-- [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
 
 -----------
 
@@ -52,6 +49,11 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 
 
 <!---
+
+#### Miscellaneous
+
+- [Work setup](https://github.com/asjad99/software_directory/blob/main/pc_build.md) | My worksetup and How i work 
+
  Systems Programming Rust (OS + databases)
 
 
