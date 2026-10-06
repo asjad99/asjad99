@@ -28,7 +28,16 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 ### Blog:
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 
+### Notes: 
 
+These based on my old learning notes that I am slowly converting into mini-books with help of codex.
+
+- [Dynamic decision Making and Reinforcement Learning](https://asjad99.github.io/ddm-mini-book/?ref=asjadkhan.com)
+- [Big ideas in Deep Learning](https://asjad99.github.io/big-ideas-in-deep-learning/?ref=asjadkhan.com#relational-reasoning-and-graph-message-passing)
+- [Software Engineering](https://asjad99.github.io/software-engineering-handbook/?ref=asjadkhan.com)
+- [MLOPS: Best practices for Designing scalable and reliable Machine learning system
+](https://asjad99.github.io/mlops-handbook/?ref=asjadkhan.com)
+- [Missing Semester]()
 -----------
 
 *Programming is the art of Function, Form, Logic, and Balance.*
