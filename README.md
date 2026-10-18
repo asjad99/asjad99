@@ -4,10 +4,17 @@
 ##  About:
 
 I have a background in computer science and AI, and I design, build, and operate data solutions that serve customers at scale. Previously, I worked with the core teams of several early-stage and high-growth startups, serving as both a data scientist and a software engineer. My role involved building AI-driven products and solutions in areas like [Business Process Analytics](https://www.asjadk.com/deepprocess/), [Information Retreival](https://www.asjadk.com/semantic_search/), and [recommender systems](https://www.asjadk.com/music/). I have expertise in Algorithmic thinking, Rapid Prototyping via design thinking and R&D thinking through first principles. I am a lifelong learner, striving to learn the art of i) Design and Construction of Intelligent Systems ii) Product Management of Data Products. iii) Building High-Performance Teams. 
-
+ 
 ----
 
-### Featured Projects  :electron:	
+### New: 
+
+
+- [Develop Fintech Applications with Calude](https://github.com/asjad99/claude-fintech-skills)
+
+
+
+### Research Projects  :electron:	
 
 My PhD projects integrate emerging machine intelligence technologies to explore applications for effective decision-making under uncertainty: 
 
