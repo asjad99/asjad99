@@ -11,7 +11,7 @@ I have a background in computer science and AI, and I design, build, and operate
 
 - [Develop Fintech Applications with Calude](https://github.com/asjad99/claude-fintech-skills)
 
-
+----
 
 ### Research Projects  :electron:	
 
@@ -20,17 +20,22 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 - Deep Reinforcement Learning based Clinical Decision Support for Sepsis treatment in emergency room  [[blog_post]](https://www.asjadk.com/decision_support/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://github.com/asjad99/MIMIC_RL_COACH)
 - Memory Augmented Neural Networks for optimizing in real-time, business process execution [[blog_post]](https://www.asjadk.com/deepprocess/) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_2) [[Code]](https://www.github.com/asjad99/DeepProcess)
 
-### Datasets: 
+**Datasets:**
+
 - [Datasets:](https://www.kaggle.com/asjad99) | Datasets and resources I built during PhD research
-- [Scripts](https://github.com/asjad99/dataset-scripts) | Scripts for building datasets 
-### Side Projects: 
+- [Scripts](https://github.com/asjad99/dataset-scripts) | Scripts for building datasets
+
+**Publications:**
+- [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers (published and Pre-Prints)
+----
+
+### Side Projects (Human Crafted): 
 - [Software Directory](https://github.com/asjad99/software_directory/blob/main/README.md)  | Side projects and Scripts 
 
-### Libraries 
+**Libraries** 
 - [Indigo](https://github.com/asjad99/Indigo) |  Indigo - A Flask Data App Generator
 
-### Publications: 
-- [Publications](https://scholar.google.com.au/citations?user=3dLAqxwAAAAJ&hl=en&oi=sra) | Academic Papers (published and Pre-Prints)
+
 ### Blog:
 - [Writing](https://www.asjadk.com/) |  I blog about my experiences here 
 
@@ -38,12 +43,9 @@ My PhD projects integrate emerging machine intelligence technologies to explore 
 
 These based on my old learning notes that I am slowly converting into mini-books with help of codex.
 
-- [Dynamic decision Making and Reinforcement Learning](https://asjad99.github.io/ddm-mini-book/?ref=asjadkhan.com)
-- [Big ideas in Deep Learning](https://asjad99.github.io/big-ideas-in-deep-learning/?ref=asjadkhan.com#relational-reasoning-and-graph-message-passing)
-- [Software Engineering](https://asjad99.github.io/software-engineering-handbook/?ref=asjadkhan.com)
-- [MLOPS: Best practices for Designing scalable and reliable Machine learning system
-](https://asjad99.github.io/mlops-handbook/?ref=asjadkhan.com)
-- [Missing Semester]()
+
+
+
 -----------
 
 *Programming is the art of Function, Form, Logic, and Balance.*
