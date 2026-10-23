@@ -7,8 +7,7 @@ I have a background in computer science and AI, and I design, build, and operate
  
 ----
 
-### New: 
-
+### AI Assisted (New): 
 
 - [Develop Fintech Applications with Calude](https://github.com/asjad99/claude-fintech-skills)
 
